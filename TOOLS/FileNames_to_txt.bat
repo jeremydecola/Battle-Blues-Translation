@@ -1,0 +1,1 @@
+for %%X in (*.*) do "%%~nX" >> text.txt
