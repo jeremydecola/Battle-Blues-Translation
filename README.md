@@ -7,6 +7,17 @@ The game was never localized for a western audience as the 3DO did not sell well
   <img src="GRAPHICS/bb_poster.jpg" width=50%>  
 </p>
 
+## Balance Changes
+It seems as though the developers behind this game didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. There is a lot of random number generation and your party member's stats are insulting low. Even after using Cheat Engine to give myself 999 999 starting credit and buying all the best weapons and items, I found it impossible to complete even the first Chapter. I have located where the stats are stored and was able to re-balance the game. I will be making balance changes while I continue translating. My goal is not to make this game easier, simply playable/enjoyable. I will ultimately create 3 profiles, Easy, Normal, Hard. The original difficulty could be considered a notch up from hard, let's call it Impossible mode.
+
+## Progress 
+
+v0.1.0
+* Intro Translated
+* Chapter 1 Part 1 Translated
+* 2x all ATK and DEF stats for party members 
+* 2x starting credit (from 15 000 to 30 000)
+
 ## Translation Procedure
 
 Unlike other games where text is usually encoded and stored seperately from the game's graphics, the text in this game is embedded in proprietary 3DO image/sprite .cel format files. Modifying the game means modifying these .cel files.
@@ -19,3 +30,4 @@ In order to extract the .cel files, modify them and rebuild the game to run on a
 5. Use BmpTo3DOCel.exe to conver the edited .bmp back to .cel
 6. OperaFS: Compile (Browse the uncompiled game ) -> export as .iso
 7. Sign your game and regenerate rom_tags : 3DOEncrypt.exe genromtags ISOFILE.iso
+
