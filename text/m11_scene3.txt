@@ -1,0 +1,24 @@
+m1_open_bill_1-01"
+[Bill] FM? What the hell is he talking about? 
+
+m1_open_habe_1-01"
+[Haberac] Who are you guys? You're not with the police. Did FM send you here?
+
+m1_open_habe_2-01"
+[Haberac] I have nothing to discuss with FM scum like you. Stop disturbing my work and get out of my face.
+
+m1_open_habe_3-01"
+[Haberac] Of course not. I will take only those who are of use to me. 
+You're free to take the remaining corpses after I'm done with the rest. 
+
+m1_open_habe_4-01"
+[Haberac] Haha, alright! Looks like you want an early funeral as well. Have it your way. 
+
+m1_open_rodri_1-01
+[Rodrigo] Hmm, that's not going to work. We can only make money by disturbing you. 
+
+m1_open_team_1-01"
+[Jin] Will you release all the hostages if we comply with your demands?
+
+m1_open_team_2-01"
+[Jin] I appreciate your honesty, but things won't go your way. 

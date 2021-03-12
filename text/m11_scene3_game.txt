@@ -1,0 +1,16 @@
+m1_game_eric_1-01"  
+[Eric] C-Captain! I'm here to help. 
+
+m1_game_haberac_1-01
+[Haberac] I commend you for coming this far. However, take one more step and the hostages will die. 
+
+m1_game_jun_1-01"  
+[June] Eric!
+
+m1_game_jun_2-01"  
+[June] Shut up!
+
+m1_game_rodri_1-01" 
+[Rodrigo] Oh! The kid wasn't lying! She really was the captain of a unit. 
+Your boyfriend came to your rescue. I'm jealous. 
+
