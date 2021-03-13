@@ -1,5 +1,5 @@
 m1_end_jun_1-01"  
-[June] Bad news... the bad guys have already moved to the roof.
+[June] Bad news... the terrorists have already moved to the roof.
 
 m1_end_jun_2-01"  
 [June] My thermal scanner is picking up loads of heat signatures above us.
@@ -26,12 +26,10 @@ m1_open_bill_2-01"
 [Bill] This is no place for a woman. You really should head home.
 
 m1_open_jun_1-01" 
-[June] Didn't I tell you that I'm fighting with you guys? 
-I know this building inside and out. You can't do this without me. 
+[June] Didn't I tell you that I'm fighting with you guys? I know this building inside and out. You can't do this without me. 
 
 m1_open_jun_2-01" 
-[June] Listen old guy, I used to be the leader of a special reconnaissance unit.
-Don't judge a book by its cover.
+[June] Listen old guy, I used to be the leader of a special reconnaissance unit. Don't judge a book by its cover.
 
 m1_open_jun_3-01" 
 [June] What?!
