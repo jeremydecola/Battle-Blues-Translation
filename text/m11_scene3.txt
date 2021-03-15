@@ -8,10 +8,10 @@ m1_open_habe_2-01"
 [Haberac] I have nothing to discuss with FM scum like you. Stop disturbing my work and get out of my face.
 
 m1_open_habe_3-01"
-[Haberac] Of course not. I will take only those who are of use to me. You're free to take the remaining corpses after I'm done with the rest. 
+[Haberac] Depends on what you mean by "release". You're free to take the corpses of the ones I don't need. 
 
 m1_open_habe_4-01"
-[Haberac] Haha, alright! Looks like you want an early funeral as well. Have it your way. 
+[Haberac] Haha, alright! If an early funeral is what you want, come and get it. 
 
 m1_open_rodri_1-01
 [Rodrigo] Hmm, that's not going to work. We can only make money by disturbing you. 

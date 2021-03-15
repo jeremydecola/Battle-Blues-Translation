@@ -11,9 +11,15 @@ The game was never localized for a western audience as the 3DO did not sell well
 It seems as though the developers behind this game didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. There is a lot of random number generation and your party member's stats are insulting low. Even after using Cheat Engine to give myself 999 999 starting credit and buying all the best weapons and items, I found it impossible to complete even the first Chapter. I have located where the stats are stored and was able to re-balance the game. I will be making balance changes while I continue translating. My goal is not to make this game easier, simply playable/enjoyable. I will ultimately create 3 profiles, Easy, Normal, Hard. The original difficulty could be considered a notch up from hard, let's call it Impossible mode.
 
 ## Progress
+v0.1.5 
+* BBPBT v0.3 -> Fully implemented difficulty select. Difficulties are not yet balanced. 
+* Played through Chapter 1 and improved the dialogue (modified some non-sensical/cheesy lines). 
+* Translated the title screen for Chapter 1.
+* Easy : 45 000 starting Credit / Normal : 30 000 starting Credit / Hard & Impossible : 15 000 starting Credit
+
 v0.1.4 - CHAPTER 1 COMPLETE! 
-* Chapter 1 Part 2 Translated
-* Chapter 1 Part 3 Translated
+* Chapter 1 Part 2 Translated.
+* Chapter 1 Part 3 Translated.
 
 v0.1.3
 * BBPBT v0.2 -> Added radiobutton logic. Various aesthetic fixes. Added zlib1.dll which is required to run OperaFS.
@@ -24,14 +30,14 @@ v0.1.2
 * Translated text for Scene 2 and Scene 3 of Chapter 1 but did edit the .cel files yet.
 
 v0.1.1 
-* Item Pickup Translated
-* Restructuring of folders
+* Item Pickup Translated.
+* Restructuring of folders.
 
 v0.1.0
-* Intro Translated
-* Chapter 1 Part 1 Translated
-* 2x all ATK and DEF stats for party members 
-* 2x starting credit (from 15 000 to 30 000)
+* Intro Translated.
+* Chapter 1 Part 1 Translated.
+* 2x all ATK and DEF stats for party members.
+* 2x starting credit (from 15 000 to 30 000).
 
 ## Translation Procedure
 

@@ -56,7 +56,7 @@ def enableOnText(*_):
 def execute_patch():
     path = filePath.get()
     bbtools.decompile(path)
-    bbtools.patch(path,0)
+    bbtools.patch(path,choice.get(),0)
     bbtools.compile(path)
     bbtools.sign(path)
     progress['text'] = "Patching Complete!"
@@ -123,6 +123,6 @@ Impossible = Radiobutton(midframe, text="IMPOSSIBLE", variable = choice, value =
 Impossible.configure(font=("Monaco", 14, "bold"))
 Impossible.pack(padx = 5, pady = 5, anchor = W)
 
-root.title("Battle Blues Patch and Balance Tool v0.2")
+root.title("Battle Blues Patch and Balance Tool v0.3")
 root.resizable(False,False)
 root.mainloop()
