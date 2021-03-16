@@ -1,0 +1,39 @@
+m2_brf_bb_1_01 
+[B.B] RTX200s still exist?
+m2_brf_ivan_1_01 
+[Ivan] A high-security military storehouse was attacked and raided by FM. They got their hands on 5 RTX200 units. 
+m2_brf_ivan_1_02 
+The RTX200 is a special "limit weapon" developed by the ANA. They were supposed to all be destroyed but some were kept in secret. 
+m2_brf_ivan_1_03 
+A non-disclosure agreement keeps me from saying any more on the subject. 
+m2_brf_ivan_2_01 
+[Ivan] With the RTX200s in FM's hands, the entire country risks falling off the face of the Earth.
+m2_brf_ivan_3_01 
+[Ivan] FM, also known as Force Mace, is large coalition of former terrorists.
+m2_brf_ivan_3_02
+Their current leader is Ghibler, a battle-hardened mercenary. FM is a recently formed group so this is all the little information we have.
+m2_brf_ivan_3_03
+It seems like all the top members of the most infamous groups are flocking to their side.
+m2_brf_ivan_3_04
+Their influence is spreading across not only Brain city but all surrounding cities as well.  
+m2_brf_ivan_3_05
+By the way, I don't remember there being a girl in your group.  
+m2_brf_ivan_4_01
+[Ivan] Well, it's between you guys. I hope you at least ran a background check on them. 
+Anyways, according to our latest intel, FM is headed for Cosmo Bridge as we speak. 
+m2_brf_ivan_4_02
+You must secure the bridge and retrieve the stolen RTX200 units. 
+m2_brf_ivan_4_03 
+There are 8 enemies in total. The reward for this mission is 10 000 Credit.  Good luck.
+m2_brf_jun_1_01 
+[June] What's a limit weapon?
+m2_brf_jun_2_01
+[June] FM... everyone's talking about them these days.
+m2_brf_yuitz_1_01
+[Jin] Limit weapons are the most powerful wide-area weapons created after the ban on nuclear weaponry.
+m2_brf_yuitz_2_01
+[Jin] I guess introductions are in order. This is June, she joined us during our fight against Haequeba.
+m2_brf_yuitz_2_02 
+June was the leader of a vigilante unit. Eric, who served under June's command has also decided to join us.
+m2_brf_yuitz_2_03 
+In any case, these two won't cause any problems, so let's get back to the briefing. 
