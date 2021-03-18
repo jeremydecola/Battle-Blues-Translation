@@ -1,0 +1,10 @@
+m2_game_hans_1_01
+[Hans] Wait a minute! I'm not your enemy.  
+m2_game_hans_1_02 
+I'm Hans Eriksen Jr. - Medical officer for FM. 
+I'm not working for them by choice. 
+m2_game_hans_1_03 
+I've just been waiting for a chance to make my escape. 
+Please help me.
+m2_game_yuitz_1_01 
+[Jin] He might have intel on FM. Let's take the medic with us. 

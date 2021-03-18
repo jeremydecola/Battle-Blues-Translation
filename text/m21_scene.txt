@@ -1,0 +1,14 @@
+m2_open_bb_1_01 
+[B.B.] Don't worry. The RTX200 doesn't explode on impact. 
+m2_open_bb_1_02
+Even an expert on explosives would need at least a week to figure out how to set it off.
+m2_open_bb_2_01 
+[B.B.] Hehehe...
+m2_open_rod_1_01
+[Rodrigo] So this RTX thing... will it blow us to pieces if we do something wrong?
+m2_open_rod_2_01 
+[Rodrigo] Keep your voice down, they're here.
+m2_open_yuitz_1_01 
+[Jin] The enemy should be here by now so everyone stay sharp. 
+m2_open_yuitz_2_01 
+[Jin] B.B., you're pretty sociable when it comes to talking about explosives. 

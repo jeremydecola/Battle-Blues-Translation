@@ -1,0 +1,18 @@
+m2_end_bb_1_01 
+[B.B.] Found one! There were 4 in the 3 cars back there. That makes 5 doesn't it?
+m2_end_bill_1_01 
+[Bill] Maybe ov... Over here! I found an RTX200!
+m2_end_bill_2_01 
+[Bill] Here's the last one!
+m2_end_jun_1_01 
+[June] Found 2 over here!
+m2_end_rod_1_01 
+[Rodrigo] So there really are RTX200s left. This is the strongest R-Series limit weapon. 
+m2_end_rod_1_02 
+I thought all these weapons were burried along with the ANA.
+m2_end_rod_2_01 
+[Rodrigo] It couldn't have just dissapeared. Perhaps our intel was wrong. 
+m2_end_rod_3_01 
+[Rodrigo] *Sigh*
+m2_end_yuitz_1_01 
+[Jin] Where's the last one hiding? 
