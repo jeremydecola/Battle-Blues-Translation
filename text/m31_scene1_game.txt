@@ -1,0 +1,42 @@
+m3_game_bill_1_01 
+[Bill] You... You're...
+m3_game_bill_2_01 
+[Bill] Ray! Why are you here? You're supposed to be in jail. 
+m3_game_bill_3_01 
+[Bill] Why are you fighting with those scumbags?
+m3_game_bill_4_01 
+[Bill] You're on probation. You shouldn't be fighting with terrorists. If you get caught, you'll be executed. 
+m3_game_bill_5_01 
+[Bill] Money?
+m3_game_bill_6_01 
+[Bill] Ray. I'm saying this as an old friend... Leave that group.
+m3_game_bill_7_01 
+[Bill] Ray...
+m3_game_bill_8_01 
+[Bill] Ray...
+m3_game_bill_9_01 
+[Bill] That guy and I used to be close when I was living in the slums. He can hack his way through any electronic lock. He's a master hacker.
+m3_game_bill_10_01 
+[Bill] Maybe Ray hacked the defense system in such a way to make it possible for FM to bring in firearms. 
+m3_game_bill_10_02 
+Man... How can someone change so much. It's only been a few years.
+m3_game_ray_1_01 
+[Ray] Bill!
+m3_game_ray_2_01 
+[Ray] What a surprise. To think we would meet like this. 
+m3_game_ray_3_01
+[Ray] I made a contract with FM. In exchange for my services, they bailed me out of jail.
+m3_game_ray_4_01 
+[Ray] Don't be ridiculous. Whether I rot in jail or get executed, it's none of your business. 
+m3_game_ray_4_02 
+I just need money and someone who can appreciate my talent. 
+m3_game_ray_5_01 
+[Ray] Yes, money. Is there anything more important than money in this world? I'm done with poverty and jail. I'm sure you can empathize. 
+m3_game_ray_6_01 
+[Ray] You're right, we were friends but that time is long gone. It's too late to go back to the way things were. 
+m3_game_ray_7_01 
+[Ray] Shit. I really don't want to shoot you right now. I'll look the other way this once but next time I see you, I will aim for your head. 
+m3_game_yuitz_1_01 
+[Jin] Bill, who was that guy?
+m3_game_yuitz_2_01 
+[Jin] He could easily have hacked the AADS then. 

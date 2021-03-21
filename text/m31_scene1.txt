@@ -1,0 +1,21 @@
+m3_open_bill_1_01
+[Bill] Are you sure you don't have some kind of admiration for FM's leader?
+m3_open_jun_1_01
+[June] According to Hans, FM's leader wants to reform and shape the country to his ideals.
+m3_open_jun_1_02 
+In times like these, with nobody to lead us, there are many who share the same ambition. 
+m3_open_jun_2_01 
+[June] What are you talking about? I just want peace.
+That's why I'm fighting with you guys.
+m3_open_pocka_1_01 
+[Engineer A] Did you hear the news? The team that went in before us was completely annihilated. 
+m3_open_pocka_2_01 
+[Engineer A] I don't want to die here. Life is totally unfair. 
+m3_open_pockb_1_01 
+[Engineer B] Don't worry guys, we've been through shit like this many times in the past and we've always made it out alive. 
+m3_open_pockc_1_01 
+[Engineer C] Many times? This is our first real mission! 
+m3_open_rod_1_01 
+[Rodrigo] These engineers are shitting themselves. Anyways, what is FM after? 
+m3_open_rod_2_01 
+[Rodrigo] Peace bought with war and bloodshed... Sounds kind of ironic. 

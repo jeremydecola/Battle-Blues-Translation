@@ -1,0 +1,62 @@
+m3_brf_bb_1_01
+[B.B.] All of the explosives currently being manufactured are R-Series so we shouldn't have much to worry about. 
+m3_brf_bb_2_01
+[B.B.] Of course. 
+m3_brf_ivan_1_01
+[Ivan] We've received a report indicating that FM has planted a bomb in the K2 building; a 100-story skyscraper in the downtown area.
+m3_brf_ivan_1_02
+We believe the bomb was planted somewhere between the 55th and 57th floor. 
+m3_brf_ivan_1_03 
+If the bomb goes off, it will most likely take out the neighboring energy tower and paralyze the entire city's defense system.
+m3_brf_ivan_2_01 
+[Ivan] Of course. A defense system called AADS was enforced on all surrounding buildings.
+m3_brf_ivan_2_02 
+However, FM is aware of the system's design flaws and has taken advantage of its vulnerabilities. 
+m3_brf_ivan_3_01 
+[Ivan] The Auto Arms Detecting System, or AADS for short, is a state-of-the-art defense system 
+designed to protect from terrorist bombings. 
+m3_brf_ivan_3_02 
+The problem is that when the system was built, it was only designed to protect from explosives produced after 2005. 
+m3_brf_ivan_3_03 
+If it isn't an R-Series explosive produced after 2005, it will go completely undetected. 
+m3_brf_ivan_4_01 
+[Ivan] FM took advantage of this design flaw to smuggle in old bombs. 
+m3_brf_ivan_4_02 
+B.B., have you ever heard of "plastic bombs"?
+m3_brf_ivan_5_01 
+[Ivan] FM combined advanced digital equipment to produce plastic bombs and have installed them throughout the building. 
+m3_brf_ivan_5_02 
+Plastic bombs are undetectable by the AADS and pack 5% the explosive force of R-Series bombs.
+m3_brf_ivan_5_03 
+However, if enough of them are used, it should be more than enough to take down the building. 
+m3_brf_ivan_6_01 
+[Ivan] If the energy tower explodes, more than 70% of the city's power will be lost. 
+m3_brf_ivan_6_02 
+As a result, 80% percent of the city's defense system will go offline. 
+m3_brf_ivan_7_01 
+[Ivan] The plastic bombs are on a timer and the enemy is in possession of the detonator.
+They waited and ambushed the bomb demolition squad.
+m3_brf_ivan_7_02 
+According to the media, one of the platoons we sent out as well as the bomb demolition squad have both been annihilated. 
+The second wave
+m3_brf_ivan_7_03 
+of engineers sent in to dismantle the bombs are taking refuge in front of the main gate. Your mission is to protect the 3 remaining 
+m3_brf_ivan_7_04
+engineers long enough for them to defuse the explosives. The bombs are set to detonate 3 hours from now. 
+m3_brf_ivan_7_05 
+The reward for this mission is 10 000 Credit. Good luck. 
+m3_brf_jun_1_01 
+[June] Apart from the bombs, how did they manage to smuggle weapons into the K2 building?
+m3_brf_yuitz_1_01 
+[Jin] It's already all over the media...
+m3_brf_yuitz_1_02 
+If this energy tower is powering the whole city's defense system, 
+shouldn't it have its own defense system?
+m3_brf_yuitz_2_01 
+[Jin] Vulnerabilities?
+m3_brf_yuitz_3_01 
+[Jin] If the energy tower does collapse, how much of the city's power grid will be affected?
+m3_brf_yuitz_4_01 
+[Jin] We'd better hurry then. What's the current situation? 
+m3_brf_yuitz_5_01 
+[Jin] No time to worry about that. Everyone get ready, we're leaving. 
