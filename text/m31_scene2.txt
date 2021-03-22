@@ -1,4 +1,8 @@
-m3_open_bill_1_01 
+m3_open_bill_1_01
+[Bill] Captain. We could fly 10 round trips around the world and still make it in time to defuse the bombs. You don't need to nag us. 
 m3_open_eric_1_01 
+[Eric] I-Is that true?
 m3_open_jun_1_01 
+[June] Shouldn't you guys be getting ready?
 m3_open_yuitz_1_01 
+[Jin] We're running out of time. Let's speed things up. 

@@ -1,5 +1,10 @@
 m3_open_pocka_1_01 
+[Engineer A] Hey, isn't that captain cool as hell?
 m3_open_pockb_1_01 
+[Engineer B] That girl is the dream. She's strong and athletic and can totally protect me. 
 m3_open_pockc_1_01 
+[Engineer C] What the hell are you guys talking about? That big guy is staring at us. Focus on the mission.
 m3_open_rod_1_01 
+[Rodrigo] Hey, engineers! If I catch you scratching your asses while we're out there risking our lives, I will personally kill you. 
 m3_open_yuitz_1_01 
+[Jin] Everyone, be on your guard.

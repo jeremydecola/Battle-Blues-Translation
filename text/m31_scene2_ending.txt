@@ -1,7 +1,14 @@
 m3_end_bb_1_01 
+[B.B.] Rodrigo, are you paying for the drinks? 
 m3_end_bill_1_01 
+[Bill] Hey B.B., don't you know anything about Rodrigo? He's only interested in 2 things: money and women. 
 m3_end_eric_1_01 
+[Eric] Sure, I don't mind. 
 m3_end_jun_1_01 
+[June] Why are you getting all sentimental? 
 m3_end_rod_1_01 
+[Rodrigo] Let's all get a drink after we finish cleaning up here. What do you say, Eric? 
 m3_end_rod_2_01 
+[Rodrigo] Don't worry. It'll be on me this time. Who knows? It may be the last drink we ever have together. 
 m3_end_yuitz_1_01 
+[Jin] Are you guys done talking? Get a move on. 
