@@ -1,0 +1,42 @@
+m4_brf_bb_1_01 
+[B.B.] We should make use of traps. Everyone, bring as many as you can.
+m4_brf_bill_1_01 
+[Bill] This'll be a breeze. With more men on our side, we're less likely to get hit. 
+m4_brf_ivan_1_01 
+[Ivan] We've received reports that FM will attack the Capitol.
+m4_brf_ivan_1_02
+The Capitol is a symbol of the State's power. If the Capitol is damaged, so is the government's credibility and image.
+m4_brf_ivan_1_03 
+The advance for this mission will be 18 000 Credit. 
+m4_brf_ivan_1_04 
+This is a delicate matter for the state, so Brain City's defense force will be fighting alongside you.
+m4_brf_ivan_2_01 
+[Ivan] I'm fully aware of your capabilities but, as I said, this one is personal.
+m4_brf_ivan_2_02 
+If the city's defense force just stands by while you do all the work, our citizens will be furious.
+m4_brf_ivan_2_03 
+Please try to understand our position as well. We decided to offer a little more Credit than usual as compensation. 
+m4_brf_ivan_3_01 
+[Ivan] That's right. You'll be accompanied by an elite group of soldiers known as "Wind Tooth".
+m4_brf_ivan_3_02 
+Jin, I take it you've met General Herman?
+m4_brf_ivan_4_01 
+[Ivan] We don't know how many men FM sent out to the Capitol but, it's clear that they'll be sending their best unit.
+m4_brf_ivan_4_02
+What we do know is that they will try to flank us. The main force will attack from the left side and the rest of their men, from the right. 
+m4_brf_ivan_4_03 
+This is a perfect opportunity to test your skills, so take charge of the left side. 
+m4_brf_ivan_4_04 
+It goes without saying, the other soldiers will cover the right side.
+m4_brf_ivan_4_05
+Cooperate with each other and get the job done. 
+m4_brf_rod_1_01 
+[Rodrigo] Hmph. They don't think we can handle it. 
+m4_brf_yuitz_1_01 
+[Jin] By any chance, are the soldiers that will be fighting with us General Herman's men?
+m4_brf_yuitz_2_01
+[Jin] Hmm... I don't know about that. 
+m4_brf_yuitz_3_01
+[Jin] Do we have a head count on the enemy? 
+m4_brf_yuitz_4_01 
+[Jin] We may be outnumbered this time, so prepare yourselves thoroughly. 

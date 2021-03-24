@@ -11,7 +11,14 @@ The game was never localized for a western audience as the 3DO did not sell well
 It seems as though the developers behind this game didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. There is a lot of random number generation and your party member's stats are insulting low. Even after using Cheat Engine to give myself 999 999 starting credit and buying all the best weapons and items, I found it impossible to complete even the first Chapter. I have located where the stats are stored and was able to re-balance the game. I will be making balance changes while I continue translating. My goal is not to make this game easier, simply playable/enjoyable. I will ultimately create 3 profiles, Easy, Normal, Hard. The original difficulty could be considered a notch up from hard, let's call it Impossible mode.
 
 ## Progress
-v0.3.1
+v0.4.0
+* Chapter 4 Briefing Translated
+* Translated the title screen for Chapter 3.
+* Translated the title screen for Chapter 4.
+* Mission 4 Credit Easy : 42 000 starting Credit / Normal : 26 000 starting Credit / Hard & Impossible : 18 000 starting Credit
+* Fixed getitem bombsol.cel ("Dismantling Bomb" -> "Bomb Defused") 
+
+v0.3.1 - CHAPTER 3 COMPLETE!
 * Chapter 3 Part 2 Translated
 * Chapter 3 Part 3 Translated
 
