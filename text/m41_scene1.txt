@@ -1,25 +1,50 @@
 m4_open_bill_1_01 
+[Bill] Damn it, seems like everyone's our enemy here. 
 m4_open_bill_2_01 
+[Bill] It's been a while since I let loose. 
 m4_open_her_1_01 
+[General Herman] Well look who we have here. 
 m4_open_her_2_01 
+[General Herman] They're like puppets. 
 m4_open_her_3_01 
-m4_open_her_4_01 
+[General Herman] Why? Did I say something wrong? So what do you call guys who have no real conviction and would do just about anything for money?
+m4_open_her_4_01
+[General Herman] Give it up, Simon. They aren't worth your breath.  
 m4_open_her_5_01 
-m4_open_her_5_02 
+[General Herman] Right. Let's give it a rest for now. We'll handle the right side of the building. 
+m4_open_her_5_02
+I'm not sure about leaving things over here in your hands. For your sake, I hope you're as competent as you think you are. 
 m4_open_her_5_03 
+Do me a favor and make sure we don't ever meet again after this fight. 
 m4_open_her_5_04 
+Teaming up with the likes of you really hurts my pride.
 m4_open_rod_1_01 
+[Rodrigo] What?!
 m4_open_rod_2_01 
+[Rodrigo] Hey, here's a question for your gramps : If you're such noble soldiers, why did you hire us?
 m4_open_rod_2_02 
+Too weak to handle this yourselves. Really speaks volumes about the quality of men that enlist with you.
 m4_open_rod_3_01 
-m4_open_rod_4_01 
+[Rodrigo] "Wind Tooth". What kind of name is that? Are you a bunch of dentists? You guys even enlist kids now? Did he pick the name?
+m4_open_rod_4_01
+[Rodrigo] Fuck, they're using us as cannon fodder!
 m4_open_simon_1_01 
+[Simon] Father, who are these people?
 m4_open_simon_2_01 
+[Simon] Hey, punk! Watch what you say with that mouth.  Who are you calling weak?
 m4_open_simon_2_02 
+Wind Tooth is the strongest unit in the city's defense force. 
 m4_open_simon_3_01 
+[Simon] What?! 
 m4_open_yuan_1_01 
+[Yuang] Were you expecting a bouquet of roses or something? 
 m4_open_yuitz_1_01 
+[Jin] General Herman, I know you're eager to get this over with and get rid of us.
 m4_open_yuitz_1_02 
+However, we have a battle to fight. This is no time to be at each other's throats. 
 m4_open_yuitz_2_01 
+[Jin] Forget about what General Herman said. Our job is to protect this side of the Capitol. 
 m4_open_yuitz_2_02 
+The majority of the enemy forces will come from our side so stay sharp.
 m4_open_yuitz_3_01 
+[Jin] The enemy has begun attacking. Everyone be careful. 

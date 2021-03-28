@@ -1,4 +1,8 @@
 m4_end_a_1_01 
+[Soldier A] Somebody! Help! We need reinforcements! 
 m4_end_a_1_02 
+They tricked us! Our intel was wrong. Their main forces came from the right side. Ug... Ugh.
 m4_end_rod_1_01 
+[Rodrigo] Something's not right... This is too easy. 
 m4_end_yuitz_1_01 
+[Jin] Something is definitely wrong. Let's move to the right side. 

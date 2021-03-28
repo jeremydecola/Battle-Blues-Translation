@@ -1,8 +1,16 @@
 m4_open_bill_1_01 
+[Bill] Ivan really dropped the ball this time. What kind of unreliable sources does he have? Is that bastard playing us? 
 m4_open_her_1_01 
+[Herman] Why did you come here? Your mission was to guard the left side... 
 m4_open_rod_1_01 
+[Rodrigo] Plus, the more enemies we kill, the more money we get. 
 m4_open_simon_1_01 
+[Simon] We don't need your help. We are strong enough to handle this on our own. Get out of here. 
 m4_open_yuitz_1_01 
+[Jin] Thank goodness! We're not too late. 
 m4_open_yuitz_2_01 
+[Jin] We already finished our mission. One of your soldiers was crying out for help so we rushed over. 
 m4_open_yuitz_3_01 
+[Jin] The city specifically requested we do a thorough job on this mission.
 m4_open_yuitz_4_01 
+[Jin] If you have nothing good to say, don't say it. 
