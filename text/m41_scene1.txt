@@ -5,7 +5,7 @@ m4_open_bill_2_01
 m4_open_her_1_01 
 [General Herman] Well look who we have here. 
 m4_open_her_2_01 
-[General Herman] They're like puppets. 
+[General Herman] They're a bunch of puppets. 
 m4_open_her_3_01 
 [General Herman] Why? Did I say something wrong? So what do you call guys who have no real conviction and would do just about anything for money?
 m4_open_her_4_01
@@ -21,7 +21,7 @@ Teaming up with the likes of you really hurts my pride.
 m4_open_rod_1_01 
 [Rodrigo] What?!
 m4_open_rod_2_01 
-[Rodrigo] Hey, here's a question for your gramps : If you're such noble soldiers, why did you hire us?
+[Rodrigo] Hey, here's a question for you, gramps : If you're such noble soldiers, why did you hire us?
 m4_open_rod_2_02 
 Too weak to handle this yourselves. Really speaks volumes about the quality of men that enlist with you.
 m4_open_rod_3_01 
@@ -47,4 +47,4 @@ m4_open_yuitz_2_01
 m4_open_yuitz_2_02 
 The majority of the enemy forces will come from our side so stay sharp.
 m4_open_yuitz_3_01 
-[Jin] The enemy has begun attacking. Everyone be careful. 
+[Jin] The enemy has begun attacking. Everyone, be careful. 

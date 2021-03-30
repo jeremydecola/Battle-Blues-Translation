@@ -9,7 +9,7 @@ m4_open_simon_1_01
 m4_open_yuitz_1_01 
 [Jin] Thank goodness! We're not too late. 
 m4_open_yuitz_2_01 
-[Jin] We already finished our mission. One of your soldiers was crying out for help so we rushed over. 
+[Jin] We already finished our mission. One of your soldiers was crying out for help, so we rushed over. 
 m4_open_yuitz_3_01 
 [Jin] The city specifically requested we do a thorough job on this mission.
 m4_open_yuitz_4_01 

@@ -11,32 +11,36 @@ The game was never localized for a western audience as the 3DO did not sell well
 It seems as though the developers behind this game didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. There is a lot of random number generation and your party member's stats are insulting low. Even after using Cheat Engine to give myself 999 999 starting credit and buying all the best weapons and items, I found it impossible to complete even the first Chapter. I have located where the stats are stored and was able to re-balance the game. I will be making balance changes while I continue translating. My goal is not to make this game easier, simply playable/enjoyable. I will ultimately create 3 profiles, Easy, Normal, Hard. The original difficulty could be considered a notch up from hard, let's call it Impossible mode.
 
 ## Progress
+v0.4.2 - CHAPTER 4 COMPLETE! 
+* Chapter 4 Part 1 Translated
+* Chapter 4 Part 2 Translated.
+
 v0.4.1
 * Edited the Starting Credit for Mission 2, 3 and 4 in launchme. 
-* Chapter 4 Part 1 and 2 - Text ready for .cel creation
-* Chapter 1 Intro Cutscene Subtitles Inserted
+* Chapter 4 Part 1 and 2 - Text ready for .cel creation.
+* Chapter 1 Intro Cutscene Subtitles Inserted.
 
 v0.4.0
-* Chapter 4 Briefing Translated
+* Chapter 4 Briefing Translated.
 * Translated the title screen for Chapter 3.
 * Translated the title screen for Chapter 4.
 * Mission 4 Credit Easy : 42 000 starting Credit / Normal : 26 000 starting Credit / Hard & Impossible : 18 000 starting Credit
 * Fixed getitem bombsol.cel ("Dismantling Bomb" -> "Bomb Defused") 
 
 v0.3.1 - CHAPTER 3 COMPLETE!
-* Chapter 3 Part 2 Translated
-* Chapter 3 Part 3 Translated
+* Chapter 3 Part 2 Translated.
+* Chapter 3 Part 3 Translated.
 
 v0.3.0
-* Chapter 3 Briefing Translated
-* Chapter 3 Part 1 Translated
+* Chapter 3 Briefing Translated.
+* Chapter 3 Part 1 Translated.
 * Mission 3 Credit Easy : 30 000 starting Credit / Normal : 20 000 starting Credit / Hard & Impossible : 10 000 starting Credit
 
 v0.2.1 - CHAPTER 2 COMPLETE!
 * Chapter 2 Translated
 
 v0.2.0
-* Chapter 2 Briefing Translated
+* Chapter 2 Briefing Translated.
 * Translated the title screen for Chapter 2.
 * Mission 2 Credit Easy : 30 000 starting Credit / Normal : 20 000 starting Credit / Hard & Impossible : 10 000 starting Credit
 
@@ -67,7 +71,7 @@ v0.1.1
 
 v0.1.0
 * Intro Translated.
-* Chapter 1 Briefing Translated
+* Chapter 1 Briefing Translated.
 * Chapter 1 Part 1 Translated.
 * 2x all ATK and DEF stats for party members.
 * 2x starting credit (from 15 000 to 30 000).
