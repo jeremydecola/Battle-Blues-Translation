@@ -1,0 +1,20 @@
+m5_brf_ivan_1_01 
+[Ivan] We've received a request for personal protection. The individual to be protected is Jack Wiseman. 
+m5_brf_ivan_1_02 
+It would appear that he is being pursued by FM. Jack took refuge inside a factory on 32nd Street in the Kan district. 
+m5_brf_ivan_1_03 
+Your mission is to rescue Jack and escort him to safety. We have reason to believe that he may be a double agent.
+m5_brf_ivan_1_04 
+If you are unable to rescue him, get rid of him instead. The advance for this mission is 12 000 Credit. Good luck. 
+m5_brf_rod_1_01 
+[Rodrigo] Jack Wiseman... I know him.
+m5_brf_rod_1_02 
+Let me join you on this one. 
+m5_brf_rod_2_01 
+[Rodrigo] Jack and I have a little bit of a history. I owe him quite a bit. 
+m5_brf_yuitz_1_01 
+[Jin] Alright, we'll go rescue this guy.
+m5_brf_yuitz_2_01 
+[Jin] You know him?
+m5_brf_yuitz_3_01 
+[Jin] Alright. We're heading out as soon as night falls. Everyone, grab what you need. 
