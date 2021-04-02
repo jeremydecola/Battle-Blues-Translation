@@ -13,16 +13,20 @@ It seems as though the developers behind this game didn't invest many ressources
 ### Allied Units
 
 Tentative balance changes on Allied Units:
+
 Impossible : Stats unchanged. 
+
 Hard : TBD
+
 Medium : 
-*Applied 1.50x Multiplier on all AT and DEF stats. 
-*Re-balanced SP for BB to avoid being overshadowed by Eric. 
-*Re-balanced SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
+* Applied 1.50x Multiplier on all AT and DEF stats. 
+* Re-balanced SP for BB to avoid being overshadowed by Eric. 
+* Re-balanced SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
+
 Easy : 
-*Applied 2.00x Multiplier on all AT and DEF stats. 
-*Re-balanced SP for BB to avoid being overshadowed by Eric as well as MOV to give him more mobility. 
-*Re-balanced SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
+* Applied 2.00x Multiplier on all AT and DEF stats. 
+* Re-balanced SP for BB to avoid being overshadowed by Eric as well as MOV to give him more mobility. 
+* Re-balanced SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
 
 | Name    | AT       | DF       | SP       | MOV   | X  |
 |---------|----------|----------|----------|-------|----|
@@ -50,13 +54,16 @@ Easy :
 ### Enemy Units
 
 Tentative balance changes on Enemy Units:
+
 Impossible : Stats unchanged. 
+
 Hard : TBD
+
 Medium : 
-*Applied 0.75x Multiplier on all DEF stats. 
+* Applied 0.75x Multiplier on all DEF stats. 
 
 Easy : 
-*Applied 0.75x Multiplier on all AT and DEF stats. 
+* Applied 0.75x Multiplier on all AT and DEF stats. 
 
 
 | Name      | AT       | DF       | SP       | MOV   | X |
