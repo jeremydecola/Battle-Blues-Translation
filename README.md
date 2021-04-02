@@ -20,20 +20,22 @@ Hard : TBD
 
 Medium : 
 * Applied 1.50x Multiplier on all AT and DEF stats. 
-* Re-balanced SP for BB to avoid being overshadowed by Eric. 
-* Re-balanced SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
+* Increased SP for BB to avoid him getting outclassed by Eric. 
+* Increased SP for Yuang since he was just a weaker version of Bill. 
+* Increased SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
 
 Easy : 
 * Applied 2.00x Multiplier on all AT and DEF stats. 
-* Re-balanced SP for BB to avoid being overshadowed by Eric as well as MOV to give him more mobility. 
-* Re-balanced SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
+* Increased SP for BB to avoid him getting outclassed by Eric as well as MOV to give him more mobility. 
+* Increased SP for Yuang since he was just a weaker version of Bill. 
+* Increased SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
 
 | Name    | AT       | DF       | SP       | MOV   | X  |
 |---------|----------|----------|----------|-------|----|
 | Jin     | 8/12/16  | 5/7/10   | 10/10/10 | 4/4/5 | 70 |
 | Rodrigo | 9/14/18  | 4/6/8    | 16/16/16 | 4/4/4 | 50 |
 | BB      | 6/9/12   | 6/9/12   | 3/6/9    | 3/3/4 | 30 |
-| Yuang   | 7/10/14  | 4/6/8    | 15/18/18 | 4/4/4 | 80 |
+| Yuang   | 7/10/14  | 4/6/8    | 15/20/20 | 4/4/4 | 80 |
 | Bill    | 8/12/16  | 4/6/8    | 16/16/16 | 4/4/4 | 90 |
 | June    | 6/9/12   | 4/6/8    | 10/18/18 | 4/5/5 | 80 |
 | Police  | 10/15/20 | 15/22/30 | 5/5/5    | 4/4/4 | 5  |
@@ -87,6 +89,10 @@ Easy :
 | Dog       | 25/25/18 | 15/10/10 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.5.1
+* Balance tables added.
+* Normal Difficulty balance values applied to wid_tables. 
+
 v0.5.0 
 * Chapter 5 Briefing Translated. 
 * Mission 5 Credit Easy : 36 000 starting Credit / Normal : 24 000 starting Credit / Hard & Impossible : 12 000 starting Credit
