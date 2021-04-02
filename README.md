@@ -10,16 +10,16 @@ The game was never localized for a western audience as the 3DO did not sell well
 ## Balance Changes
 It seems as though the developers behind this game didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. There is a lot of random number generation and your party member's stats are insulting low. Even after using Cheat Engine to give myself 999 999 starting credit and buying all the best weapons and items, I found it impossible to complete even the first Chapter. I have located where the stats are stored and was able to re-balance the game. I will be making balance changes while I continue translating. My goal is not to make this game easier, simply playable/enjoyable. I will ultimately create 3 profiles, Easy, Normal, Hard. The original difficulty could be considered a notch up from hard, let's call it Impossible mode.
 
-Name| AT | DF | SP | MOV | X
---- | --- | --- | --- |--- | --- |---
-Jin | 8 | 5 | 10 | 4 | 70 
-Rodrigo | 9 | 4 | 16 | 4 | 50 
-BB | 6 | 6 | 3 | 3 | 30
-Yuang | 7 | 4 | 15 | 4 | 80
-Bill | 8 | 4 | 16 | 4 | 90 
-June | 6 | 4 | 10 | 4 | 80 
-Eric | 12 | 10 | 6 | 4 | 60
-Haberac | 25 | 22 | 10 | 4 | 5 
+| Name    | AT    | DF    | SP    | MOV | X  |
+|---------|-------|-------|-------|-----|----|
+| Jin     | 8/16  | 5/8   | 10/10 | 4/4 | 70 |
+| Rodrigo | 9/18  | 4/8   | 16/16 | 4/4 | 50 |
+| BB      | 6/12  | 6/12  | 3/3   | 3/3 | 30 |
+| Yuang   | 7/14  | 4/8   | 15/15 | 4/4 | 80 |
+| Bill    | 8/16  | 4/8   | 16/16 | 4/4 | 90 |
+| June    | 6/12  | 4/8   | 10/10 | 4/4 | 80 |
+| Eric    | 12/24 | 10/20 | 6/6   | 4/4 | 60 |
+| Haberac | 25/25 | 22/22 | 10/10 | 4/4 | 5  |
 
 ## Progress
 v0.5.0 
