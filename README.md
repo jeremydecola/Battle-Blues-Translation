@@ -10,6 +10,8 @@ The game was never localized for a western audience as the 3DO did not sell well
 ## Balance Changes
 It seems as though the developers behind this game didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. There is a lot of random number generation and your party member's stats are insulting low. Even after using Cheat Engine to give myself 999 999 starting credit and buying all the best weapons and items, I found it impossible to complete even the first Chapter. I have located where the stats are stored and was able to re-balance the game. I will be making balance changes while I continue translating. My goal is not to make this game easier, simply playable/enjoyable. I will ultimately create 3 profiles, Easy, Normal, Hard. The original difficulty could be considered a notch up from hard, let's call it Impossible mode.
 
+### Allied Units
+
 | Name    | AT    | DF    | SP    | MOV | X  |
 |---------|-------|-------|-------|-----|----|
 | Jin     | 8/16  | 5/8   | 10/10 | 4/4 | 70 |
@@ -18,8 +20,42 @@ It seems as though the developers behind this game didn't invest many ressources
 | Yuang   | 7/14  | 4/8   | 15/15 | 4/4 | 80 |
 | Bill    | 8/16  | 4/8   | 16/16 | 4/4 | 90 |
 | June    | 6/12  | 4/8   | 10/10 | 4/4 | 80 |
+| Police  | 10/10 | 15/15 | 5/5   | 4/4 | 5  |
 | Eric    | 12/24 | 10/20 | 6/6   | 4/4 | 60 |
-| Haberac | 25/25 | 22/22 | 10/10 | 4/4 | 5  |
+| Hans    | 5/5   | 3/3   | 10/10 | 4/4 | 40 |
+| Bump A  | 5/5   | 1/1   | 0/0   | 4/4 | 5  |
+| Bump B  | 5/5   | 1/1   | 0/0   | 4/4 | 5  |
+| Bump C  | 5/5   | 2/2   | 2/2   | 4/4 | 5  |
+| Ray     | 15/15 | 20/20 | 16/16 | 6/6 | 60 |
+| Shinobu | 20/20 | 10/10 | 35/35 | 5/5 | 50 |
+| Ivan    | 25/25 | 40/40 | 5/5   | 4/4 | 5  |
+| Herman  | 5/5   | 20/20 | 5/5   | 4/4 | 5  |
+| Jack    | 5/5   | 5/5   | 5/5   | 4/4 | 5  |
+| John    | 5/5   | 5/5   | 5/5   | 4/4 | 5  |
+| Sasha   | 5/5   | 5/5   | 5/5   | 4/4 | 5  |
+| Simon   | 20/20 | 15/15 | 28/28 | 5/5 | 50 |
+
+### Enemy Units
+
+| Name      | AT    | DF    | SP    | MOV | X |
+|-----------|-------|-------|-------|-----|---|
+| FM Com    | 30/30 | 25/25 | 5/5   | 5/5 | 5 |
+| FM Mid    | 5/5   | 5/5   | 5/5   | 4/4 | 5 |
+| FM Ninja  | 40/40 | 15/15 | 5/5   | 4/4 | 5 |
+| FM Ninja2 | 45/45 | 15/15 | 5/5   | 4/4 | 5 |
+| ANA Heavy | 5/5   | 10/10 | 5/5   | 4/4 | 5 |
+| ANA Mid   | 5/5   | 5/5   | 5/5   | 4/4 | 5 |
+| ANA Snipe | 5/5   | 5/5   | 5/5   | 4/4 | 5 |
+| Def Heavy | 5/5   | 5/5   | 5/5   | 4/4 | 5 |
+| Def Mid   | 25/25 | 13/13 | 5/5   | 4/4 | 5 |
+| Phyco     | 25/25 | 30/30 | 10/10 | 4/4 | 5 |
+| Robot     | 75/75 | 50/50 | 5/5   | 4/4 | 5 |
+| Haberac   | 25/25 | 22/22 | 10/10 | 4/4 | 5 |
+| Geil      | 25/25 | 37/37 | 5/5   | 4/4 | 5 |
+| Injil     | 15/15 | 5/5   | 5/5   | 4/4 | 5 |
+| Akba      | 2/2   | 5/5   | 5/5   | 4/4 | 5 |
+| Bull      | 5/5   | 10/10 | 5/5   | 4/4 | 5 |
+| Dog       | 25/25 | 15/15 | 5/5   | 4/4 | 5 |
 
 ## Progress
 v0.5.0 
