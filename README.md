@@ -46,12 +46,12 @@ Easy :
 | Bump C  | 5/5/5    | 2/7/14   | 2/2/2    | 4/4/4 | 5  |
 | Ray     | 15/22/30 | 20/30/40 | 16/16/16 | 6/6/6 | 60 |
 | Shinobu | 20/30/40 | 10/15/20 | 35/35/35 | 5/5/5 | 50 |
-| Ivan    | 25/25/25 | 40/40/40 | 5/5/5    | 4/4/4 | 5  |
 | Herman  | 5/5/5    | 20/20/20 | 5/5/5    | 4/4/4 | 5  |
 | Jack    | 5/5/5    | 5/10/15  | 5/5/5    | 4/4/4 | 5  |
 | John    | 5/5/5    | 5/10/15  | 5/5/5    | 4/4/4 | 5  |
 | Sasha   | 5/5/5    | 5/10/15  | 5/5/5    | 4/4/4 | 5  |
 | Simon   | 20/30/40 | 15/22/30 | 28/28/28 | 5/5/5 | 50 |
+| Phyco   | 25/25/25 | 30/30/30 | 10/10/10 | 4/4/4 | 5  |
 
 ### Enemy Units
 
@@ -79,7 +79,6 @@ Easy :
 | ANA Snipe | 5/5/4    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
 | Def Heavy | 5/5/4    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
 | Def Mid   | 25/25/18 | 13/9/9   | 5/5/5    | 4/4/4 | 5 |
-| Phyco     | 25/25/25 | 30/30/30 | 10/10/10 | 4/4/4 | 5 |
 | Robot     | 75/75/60 | 50/40/40 | 5/5/5    | 4/4/4 | 5 |
 | Haberac   | 25/25/18 | 22/18/18 | 10/10/10 | 4/4/4 | 5 |
 | Geil      | 25/25/18 | 37/30/30 | 5/5/5    | 4/4/4 | 5 |
@@ -87,8 +86,13 @@ Easy :
 | Akba      | 2/2/2    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
 | Bull      | 5/5/4    | 10/7/7   | 5/5/5    | 4/4/4 | 5 |
 | Dog       | 25/25/18 | 15/10/10 | 5/5/5    | 4/4/4 | 5 |
+| Ivan      | 25/25/25 | 40/40/40 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.5.2 
+* Chapter 1 Ending Cutscene Subtitles Inserted.
+* Finished initial playthrough with 1.50x multiplier on all AT and DEF stats of allies, 0.75x multiplier on enemy DEF and double money (first 5 missions only). Despite a few levels which were quite challenging, the game felt overwhelming easy and braindead. These multipliers which were previously coined as "Normal" mode would work better as "Easy" mode. 
+
 v0.5.1
 * Balance tables added.
 * Normal Difficulty balance values applied to wid_tables. 
