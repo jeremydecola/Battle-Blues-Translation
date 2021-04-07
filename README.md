@@ -30,28 +30,35 @@ Easy :
 * Increased SP for Yuang since he was just a weaker version of Bill. 
 * Increased SP and MOV for June in an attempt to make her usefull as she is originally weaker than all other party members.
 
+```diff
+@@ 04/07/2021@@
+- nerfing DF from 1.50x to 1.25x for Police [Normal].
+- nerfing DF and AT of all characters from 2.00x to 1.50x [Easy]
+! John is an enemy.
+! Psycho (Phyco) is an enemy. 
+! Removing buffs on Sasha and Jack.
+```
+
 | Name    | AT       | DF       | SP       | MOV   | X  |
 |---------|----------|----------|----------|-------|----|
-| Jin     | 8/12/16  | 5/7/10   | 10/10/10 | 4/4/5 | 70 |
-| Rodrigo | 9/14/18  | 4/6/8    | 16/16/16 | 4/4/4 | 50 |
-| BB      | 6/9/12   | 6/9/12   | 3/6/9    | 3/3/4 | 30 |
-| Yuang   | 7/10/14  | 4/6/8    | 15/20/20 | 4/4/4 | 80 |
-| Bill    | 8/12/16  | 4/6/8    | 16/16/16 | 4/4/4 | 90 |
-| June    | 6/9/12   | 4/6/8    | 10/18/18 | 4/5/5 | 80 |
-| Police  | 10/15/20 | 15/22/30 | 5/5/5    | 4/4/4 | 5  |
-| Eric    | 12/18/24 | 10/15/20 | 6/6/6    | 4/4/4 | 60 |
+| Jin     | 8/12/12  | 5/7/7    | 10/10/10 | 4/4/5 | 70 |
+| Rodrigo | 9/14/14  | 4/6/6    | 16/16/16 | 4/4/4 | 50 |
+| BB      | 6/9/9    | 6/9/9    | 3/6/9    | 3/3/4 | 30 |
+| Yuang   | 7/10/10  | 4/6/6    | 15/20/20 | 4/4/4 | 80 |
+| Bill    | 8/12/12  | 4/6/6    | 16/16/16 | 4/4/4 | 90 |
+| June    | 6/9/9    | 4/6/6    | 10/18/18 | 4/5/5 | 80 |
+| Police  | 10/15/15 | 15/20/20 | 5/5/5    | 4/4/4 | 5  |
+| Eric    | 12/18/18 | 10/15/15 | 6/6/6    | 4/4/4 | 60 |
 | Hans    | 5/10/10  | 3/6/6    | 10/10/10 | 4/4/4 | 40 |
-| Bump A  | 5/5/5    | 1/5/10   | 0/0/0    | 4/4/4 | 5  |
-| Bump B  | 5/5/5    | 1/5/10   | 0/0/0    | 4/4/4 | 5  |
-| Bump C  | 5/5/5    | 2/7/14   | 2/2/2    | 4/4/4 | 5  |
-| Ray     | 15/22/30 | 20/30/40 | 16/16/16 | 6/6/6 | 60 |
-| Shinobu | 20/30/40 | 10/15/20 | 35/35/35 | 5/5/5 | 50 |
+| Bump A  | 5/5/5    | 1/5/5    | 0/0/0    | 4/4/4 | 5  |
+| Bump B  | 5/5/5    | 1/5/5    | 0/0/0    | 4/4/4 | 5  |
+| Bump C  | 5/5/5    | 2/7/7    | 2/2/2    | 4/4/4 | 5  |
+| Ray     | 15/22/22 | 20/30/30 | 16/16/16 | 6/6/6 | 60 |
+| Shinobu | 20/30/30 | 10/15/15 | 35/35/35 | 5/5/5 | 50 |
 | Herman  | 5/5/5    | 20/20/20 | 5/5/5    | 4/4/4 | 5  |
-| Jack    | 5/5/5    | 5/10/15  | 5/5/5    | 4/4/4 | 5  |
-| John    | 5/5/5    | 5/10/15  | 5/5/5    | 4/4/4 | 5  |
-| Sasha   | 5/5/5    | 5/10/15  | 5/5/5    | 4/4/4 | 5  |
-| Simon   | 20/30/40 | 15/22/30 | 28/28/28 | 5/5/5 | 50 |
-| Phyco   | 25/25/25 | 30/30/30 | 10/10/10 | 4/4/4 | 5  |
+| Jack    | 5/5/5    | 5/5/5    | 5/5/5    | 4/4/4 | 5  |
+| Sasha   | 5/5/5    | 5/5/5    | 5/5/5    | 4/4/4 | 5  |
+| Simon   | 20/30/30 | 15/22/22 | 28/28/28 | 5/5/5 | 50 |
 
 ### Enemy Units
 
@@ -67,26 +74,32 @@ Medium :
 Easy : 
 * Applied 0.75x Multiplier on all AT and DEF stats. 
 
+```diff
+@@ 04/07/2021@@
++ buffing DF from 0.75 back to 1.00x [Normal]
+```
 
 | Name      | AT       | DF       | SP       | MOV   | X |
 |-----------|----------|----------|----------|-------|---|
-| FM Com    | 30/30/20 | 25/20/20 | 5/5/5    | 5/5/5 | 5 |
-| FM Mid    | 5/5/4    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
-| FM Ninja  | 40/40/30 | 15/10/10 | 5/5/5    | 4/4/4 | 5 |
-| FM Ninja2 | 45/45/35 | 15/10/10 | 5/5/5    | 4/4/4 | 5 |
-| ANA Heavy | 5/5/4    | 10/7/7   | 5/5/5    | 4/4/4 | 5 |
-| ANA Mid   | 5/5/4    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
-| ANA Snipe | 5/5/4    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
-| Def Heavy | 5/5/4    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
-| Def Mid   | 25/25/18 | 13/9/9   | 5/5/5    | 4/4/4 | 5 |
-| Robot     | 75/75/60 | 50/40/40 | 5/5/5    | 4/4/4 | 5 |
-| Haberac   | 25/25/18 | 22/18/18 | 10/10/10 | 4/4/4 | 5 |
-| Geil      | 25/25/18 | 37/30/30 | 5/5/5    | 4/4/4 | 5 |
-| Injil     | 15/15/15 | 5/5/5    | 5/5/5    | 4/4/4 | 5 |
-| Akba      | 2/2/2    | 5/4/4    | 5/5/5    | 4/4/4 | 5 |
-| Bull      | 5/5/4    | 10/7/7   | 5/5/5    | 4/4/4 | 5 |
-| Dog       | 25/25/18 | 15/10/10 | 5/5/5    | 4/4/4 | 5 |
-| Ivan      | 25/25/25 | 40/40/40 | 5/5/5    | 4/4/4 | 5 |
+| FM Com    | 30/30/20 | 25/25/20 | 5/5/5    | 5/5/5 | 5 |
+| FM Mid    | 5/5/4    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| FM Ninja  | 40/40/30 | 15/15/10 | 5/5/5    | 4/4/4 | 5 |
+| FM Ninja2 | 45/45/35 | 15/15/10 | 5/5/5    | 4/4/4 | 5 |
+| ANA Heavy | 5/5/4    | 10/10/7  | 5/5/5    | 4/4/4 | 5 |
+| ANA Mid   | 5/5/4    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| ANA Snipe | 5/5/4    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| Def Heavy | 5/5/4    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| Def Mid   | 25/25/18 | 13/13/9  | 5/5/5    | 4/4/4 | 5 |
+| Robot     | 75/75/60 | 50/50/40 | 5/5/5    | 4/4/4 | 5 |
+| Haberac   | 25/25/18 | 22/22/18 | 10/10/10 | 4/4/4 | 5 |
+| Geil      | 25/25/18 | 37/37/30 | 5/5/5    | 4/4/4 | 5 |
+| Injil     | 15/15/15 | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| Akba      | 2/2/2    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| Bull      | 5/5/4    | 10/10/7  | 5/5/5    | 4/4/4 | 5 |
+| Dog       | 25/25/18 | 15/15/10 | 5/5/5    | 4/4/4 | 5 |
+| Psycho    | 25/25/18 | 30/30/23 | 10/10/10 | 4/4/4 | 5 |
+| John      | 5/5/4    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
+| Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
 v0.5.4 - CHAPTER 5 COMPLETE!
@@ -99,7 +112,7 @@ v0.5.3
 
 v0.5.2 
 * Chapter 1 Ending Cutscene Subtitles Inserted.
-* Finished initial playthrough with 1.50x multiplier on all AT and DEF stats of allies, 0.75x multiplier on enemy DEF and double money (first 5 missions only). Despite a few levels which were quite challenging, the game felt overwhelming easy and braindead. These multipliers which were previously coined as "Normal" mode would work better as "Easy" mode. 
+* Finished initial playthrough with 1.50x multiplier on all AT and DEF stats of allies, 0.75x multiplier on enemy DEF and double money (first 5 missions only). Despite a few levels which were quite challenging, the game felt overwhelmingly easy and braindead. These multipliers which were previously coined as "Normal" mode would work better as "Easy" mode. 
 
 v0.5.1
 * Balance tables added.
