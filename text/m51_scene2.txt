@@ -1,5 +1,10 @@
-m5_open_rod_1_01 
-m5_open_yuitz_1_01 
-m5_open_yuitz_2_01 
-m5_open_yuitz_3_01 
-m5_open_yuitz_3_02 
+m5_open_rod_1_01
+[Rodrigo] Hey! Jack! We’re here.
+m5_open_yuitz_1_01
+[Jin] Where is he hiding? Hm...
+m5_open_yuitz_2_01
+[Jin] Wait, be quiet.
+m5_open_yuitz_3_01
+[Jin] We should clear the area of enemies first.
+m5_open_yuitz_3_02
+If somebody finds Jack, get him to safety.

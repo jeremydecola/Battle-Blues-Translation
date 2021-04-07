@@ -1,0 +1,24 @@
+ana1_1-01
+[ANA Officer 1]  If you find anyone that still has a pulse, make sure to get rid of them.
+ana1_2-01
+[ANA Officer 1] Don’t bother taking any captives. If we leave any of them alive they’ll probably come back to try and avenge their family or something...
+ana1_2-02
+Or even worse, they might alert the media.
+ana1_3-01
+[ANA Officer 1] Paul, is that you? God! I hate those Yellow Monkeys... they’re so noisy.
+ana1_4-01
+[ANA Officer 1] The ANA wants to segregate the Chinese now.
+ana1_4-02
+No matter their number, they still can’t survive on their own.
+ana2_1-01
+[ANA Officer 2] James... why do you have to be so cruel?
+ana2_2-01
+[ANA Officer 2] Hehehe, I don’t think they’ll be holding any demonstrations or protests anymore.
+ana2_3-01
+[ANA Officer 2] We’ll show them what happens when they try to oppose the ANA.
+sol_1-01
+[Subordinate] We’ve found children alive near the border. Shall we capture them?
+sol_2-01
+[Subordinate] Yes, sir!
+yuan_1-01
+[Yuang] May, you were all I had left. This is the last thing I can do for you.

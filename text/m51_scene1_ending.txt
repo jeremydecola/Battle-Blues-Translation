@@ -1,6 +1,13 @@
-m5_end_rod_1_01 
-m5_end_rod_2_01 
-m5_end_rod_3_01 
-m5_end_yuitz_1_01 
-m5_end_yuitz_2_01 
-m5_end_yuitz_3_01 
+m5_end_rod_1_01
+[Rodrigo] Don’t worry, they won’t kill him. Ivan’s told him a lot. The intel he has is too valuable to pass on.
+m5_end_rod_2_01
+[Rodrigo] We met at a pub.
+He’s an honest and down-to-earth guy.
+m5_end_rod_3_01
+[Rodrigo] OK!
+m5_end_yuitz_1_01
+[Jin] Jack’s probably in danger right about now.
+m5_end_yuitz_2_01
+[Jin] You sure know a lot about this guy, were you two close?
+m5_end_yuitz_3_01
+[Jin] Well then, we’d better hurry. It will only get harder to save him if they discover us.

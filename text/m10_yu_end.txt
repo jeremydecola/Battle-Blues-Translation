@@ -1,0 +1,38 @@
+bb_1-01
+[B.B.] Jin...
+bb_2-01
+[B.B.] Shouldn’t I have apologized to him?
+bb_3-01
+[B.B.] A sinner like me has no right to stand before him.
+bb_3-02
+I’ve abandoned my faith, my values and everyone who died in this incident.
+bb_4-01
+[B.B.] ...
+bb_5-01
+[B.B.] ... right.
+yuan_1-01
+[Yuang] Damn it. It’s not over yet...
+yuan_2-01
+[Yuang] What are you talking about? Aren’t you ANA?
+yuan_3-01
+[Yuang] I will pray to every God, good and evil, to help my bullets find their way deep into the skulls of the sick bastards who did this. 
+yuan_3-02
+My name is Yuang Zhin, remember it. 
+yuitz_1-01
+[Jin] Get out of here as fast as you can. Reinforcements will be here soon. 
+yuitz_2-01
+[Jin] Don’t judge a book by its cover. Everyone has their own story. 
+yuitz_2-02
+I don’t condone what happened here today... It just leaves a bad taste in my mouth. Try and calm down and collect yourself before doing something rash. 
+yuitz_2-03
+My name is Jin Yuitz. Perhaps we’ll meet again someday. 
+yuitz_3-01
+[Jin] What’s wrong?
+yuitz_4-01
+[Jin] No use crying over spilled milk. Forget about it.
+yuitz_4-02
+If you hadn’t fought, you would have been shot. Besides, someone else would have just taken your place.
+yuitz_5-01
+[Jin] That’s enough. Everyone knows that bloody hands don’t wash very easily. 
+yuitz_6-01
+[Jin] So, find a way to atone for your sins. I’m thinking of leaving the ANA. Are you with me?

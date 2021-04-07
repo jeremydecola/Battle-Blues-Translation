@@ -1,14 +1,30 @@
-m5_game_rod_1_01 
-m5_game_rod_2_01 
-m5_game_rod_3_01 
-m5_game_rod_4_01 
-m5_game_simon_1_01 
-m5_game_simon_2_01 
-m5_game_simon_3_01 
-m5_game_simon_4_01 
-m5_game_simon_4_02 
-m5_game_simon_5_01 
-m5_game_simon_6_01 
-m5_game_yuitz_1_01 
-m5_game_yuitz_2_01 
-m5_game_yuitz_3_01 
+m5_game_rod_1_01
+[Rodrigo] Oh, the little shit is back for more.
+m5_game_rod_2_01
+[Rodrigo] Did you make sure to finish all your breast milk before you got here?
+m5_game_rod_3_01
+[Rodrigo] He’s become pretty humble.
+m5_game_rod_4_01
+[Rodrigo] Pff…
+m5_game_simon_1_01
+[Simon] Jin, let me join you.
+m5_game_simon_2_01
+[Simon] You think you’re better than me? Stay out of this.
+m5_game_simon_3_01
+[Simon] I still don’t like them now, but I must avenge my father.
+m5_game_simon_4_01
+[Simon] The city’s defense corps is too weak right now. To make matters worse, strange guys are infiltrating our ranks.
+m5_game_simon_4_02
+You guys were like naturals out there. You made it look easy. I want to be strong like you! Please let me join you.
+m5_game_simon_5_01
+[Simon] Shut up!
+m5_game_simon_6_01
+[Simon] Thank you. I won’t let you down.
+m5_game_yuitz_1_01
+[Jin] I thought you hated mercenaries. What made you change your mind?
+m5_game_yuitz_2_01
+[Jin] What does that matter?
+m5_game_yuitz_3_01
+[Jin] Quiet! We are in battle now. Save your petty arguments for later. 
+Simon, welcome to Team Blue.
+

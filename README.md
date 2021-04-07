@@ -89,6 +89,10 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/40 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.5.3
+* Memorial Chapter (Yuang's Chapter) Translated. 
+* Chapter 5 Part 1 and 2 - Text ready for .cel creation.
+
 v0.5.2 
 * Chapter 1 Ending Cutscene Subtitles Inserted.
 * Finished initial playthrough with 1.50x multiplier on all AT and DEF stats of allies, 0.75x multiplier on enemy DEF and double money (first 5 missions only). Despite a few levels which were quite challenging, the game felt overwhelming easy and braindead. These multipliers which were previously coined as "Normal" mode would work better as "Easy" mode. 

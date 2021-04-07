@@ -1,9 +1,19 @@
 m5_open_rod_1_01 
-m5_open_rod_2_01 
-m5_open_rod_3_01 
-m5_open_rod_4_01 
+[Rodrigo] You scared, Jiney?
+m5_open_rod_2_01
+[Rodrigo] I heard this guy used to be Brain City’s top informant. He was dealing with an organization that was too hot to handle and he got burnt. 
+m5_open_rod_3_01
+[Rodrigo] Yeah, he’s a pretty good guy.
+m5_open_rod_4_01
+[Rodrigo] Well, it’s still good business. Anyways, is this the place Ivan told us about?
+Let’s hurry on inside.
 m5_open_yuitz_1_01 
-m5_open_yuitz_2_01 
-m5_open_yuitz_3_01 
-m5_open_yuitz_4_01 
-m5_open_yuitz_5_01 
+[Jin] The silence here is eerie...
+m5_open_yuitz_2_01
+[Jin] Maybe...
+m5_open_yuitz_3_01
+[Jin] Do you mean Jack Wiseman?
+m5_open_yuitz_4_01
+[Jin] Well, he’s pretty lucky to have a friend like you, runing to his rescue.
+m5_open_yuitz_5_01
+[Jin] Shh, keep your voice down! We have company.
