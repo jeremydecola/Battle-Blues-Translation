@@ -89,6 +89,10 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/40 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.5.4 - CHAPTER 5 COMPLETE!
+* Chapter 5 Part 1 Translated
+* Chapter 5 Part 2 Translated.
+
 v0.5.3
 * Memorial Chapter (Yuang's Chapter) Translated. 
 * Chapter 5 Part 1 and 2 - Text ready for .cel creation.
