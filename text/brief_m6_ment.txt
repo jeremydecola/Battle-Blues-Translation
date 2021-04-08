@@ -1,0 +1,34 @@
+m6_brf_bill_1_01
+[Bill] Oh! You mean that shithead.
+m6_brf_bill_2_01
+[Bill] Oh yeah? Then I’ll stay here. Sounds too easy for me. Jin, you should sit this one out too. 
+m6_brf_bill_2_02
+Only a few of us should go. You’d better not sneak out when I’m not looking. 
+m6_brf_ivan_1_01
+[Ivan] Team Blue, I’ve asked you to gather here today to deliver some important news on the developments of our enemy.
+m6_brf_ivan_1_02
+There’s been an incident with FM which led to an internal restructuring of sorts...
+m6_brf_ivan_1_03
+Gibler was assassinated and a man named Geil has assumed command.
+m6_brf_ivan_1_04
+Rumor has it he is a much more meticulous and cold-blooded individual than Gibler was. Not someone you’d write home to your mother about.
+m6_brf_ivan_1_05
+Geil seems to be particularly interested in you. Let’s just say, he’s been digging around quite a bit.
+m6_brf_ivan_2_01
+[Ivan] In any case, you guys can take care of yourselves. This mission is very simple.
+m6_brf_ivan_2_02
+I need you to break up a fight between two rival gangs. Do you know the "Red Moon"?
+m6_brf_ivan_2_03
+They’re becoming a real pain in the ass since they’ve started using real weapons against their rivals.
+m6_brf_ivan_2_04
+Those guys just kill for sport. They are repulsive... Anyways, you’ll get paid once the job is done.
+m6_brf_rod_1_01
+[Rodrigo] Kids these days are pretty daring. They wanna bust heads? I’ll bust theirs. But come on... a gang fight? Seems a little too easy.
+m6_brf_rod_2_01
+[Rodrigo] Me too. Someone’s gotta teach those pricks some respect.
+m6_brf_yuan_1_01
+[Yuang] I’ll take this one.
+m6_brf_yuitz_1_01
+[Jin] Geil... I know him. 
+m6_brf_yuitz_2_01
+[Jin] Do whatever you want.
