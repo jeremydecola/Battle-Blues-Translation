@@ -1,0 +1,13 @@
+m6_conti_bill_1_01
+[Bill] Let’s postpone our duel until next time, Captain.
+m6_conti_bill_2_01
+[Bill] What was that? A ninja?
+Has anyone ever fought a ninja before?
+m6_conti_bill_3_01
+[Bill] Those FM bastards… they’re really going out of their way to kill us. Anyways, at least they’re keeping things interesting….
+m6_conti_jun_1_01
+[June] Now's not the time to be thinking about that.
+m6_conti_yuitz_1_01
+[Jin] Does everyone have a weapon?
+m6_conti_yuitz_2_01
+[Jin] They seem like assassins of some sort.

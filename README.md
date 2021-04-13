@@ -102,6 +102,11 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.6.1 - CHAPTER 6 COMPLETE!
+* Chapter 6 Translated.
+* Saved m1b.moov (Chapter 1 Opening Cutscene) with a data rate of 100 KBps instead of 180 KBps. This results in a 38% reduction in filesize and more closely resembles the size of the original video files. The previous picture quality on 180 KBps was slightly sharper but was not enough to justify the outrageous filesizes which ultimately may have made fitting my translation on CD-ROM impossible.
+* Set the audio slightly ahead on m1b.moov to better sync audio/video. 
+
 v0.6.0 
 * Chapter 6 Briefing Translated. 
 
@@ -151,7 +156,7 @@ v0.3.0
 * Mission 3 Credit Easy : 30 000 starting Credit / Normal : 20 000 starting Credit / Hard & Impossible : 10 000 starting Credit
 
 v0.2.1 - CHAPTER 2 COMPLETE!
-* Chapter 2 Translated
+* Chapter 2 Translated.
 
 v0.2.0
 * Chapter 2 Briefing Translated.

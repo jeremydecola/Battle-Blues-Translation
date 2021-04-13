@@ -1,0 +1,33 @@
+m6_end_bill_1_01
+[Bill] Hey, Captain!
+How did they find our hideout? I thought this place was off the grid.
+m6_end_jun_1_01
+[June] Why did you help us?
+m6_end_jun_2_01
+[June] FM...
+m6_end_shino_1_01
+[Shinobu] I’m Shinobu, member of the 40th generation of the Iga-In-Gun Ye clan. Those two ninja you dealt with were my fellow clansmen. 
+m6_end_shino_2_01
+[Shinobu] Don’t misunderstand me. My intention was not to help you. Those two had tarnished the honor of my clan. I was simply passing judgment on them. 
+m6_end_shino_2_02
+As the only remaining successor of the clan, I couldn’t let our name be tarnished. 
+m6_end_shino_2_03
+It is my responsibility to punish those who don’t follow the teachings of our ancestors and who stray from the path.
+m6_end_shino_2_04
+They had a falling out with our master but I never thought they’d resort to that kind of behavior.
+m6_end_shino_2_05
+They just wanted to make a name for themselves and be someone in this world…
+m6_end_shino_2_06
+Is the world corrupting people or are people corrupting the world?
+m6_end_shino_3_01
+[Shinobu] I heard they were hired by some kind of terrorist organization.
+m6_end_shino_4_01
+[Shinobu] I must bid you farewell. There’s another matter I must tend to.
+m6_end_shino_4_02
+If you are ever in need of assistance, play this pipe.
+m6_end_yuitz_1_01
+[Jin] Thank you for the help but… who are you?
+m6_end_yuitz_2_01
+[Jin] By any chance, do you happen to know who hired those two guys?
+m6_end_yuitz_3_01
+[Jin] FM… Was it Geil?

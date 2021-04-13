@@ -1,0 +1,25 @@
+m6_open_2_01 
+[Bill] I’m not one to dwell on the past but I still can’t believe I lost to you that day. I was such a loser back then.
+m6_open_bill_1_01
+[Bill] It's been a while since I've had so much free time.
+m6_open_bill_1_02 
+Jin, do you remember the day we met? I totally failed my mission because of you. 
+m6_open_bill_2_01 
+[Bill] I’m not one to dwell on the past but I still can’t believe I lost to you that day. I was such a loser back then.
+m6_open_bill_3_01 
+[Bill] Jiney, you scared to find out that your win was just a fluke? Come on, try me again. I won’t lose. 
+m6_open_bill_4_01 
+[Bill] Well, shit. Whatever…
+m6_open_bill_4_02
+That loss was my first and it’ll be my last.
+m6_open_jun_1_01 
+[June] Hurry and gather your weapons!
+m6_open_yuitz_1_01 
+[Jin] The past in the past, why don’t you let it go?
+I had my reasons to keep your target alive.
+m6_open_yuitz_2_01
+[Jin] Bill, this isn’t the time. 
+m6_open_yuitz_3_01
+[Jin] I’ve got nothing to prove so just drop it.
+m6_open_yuitz_4_01
+[Jin] Enemies! How did they find this place?

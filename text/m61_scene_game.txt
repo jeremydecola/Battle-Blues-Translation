@@ -1,0 +1,14 @@
+m6_game_ab_1_01
+[Assassins A,B] Br-Brother!
+m6_game_kyo_1_01
+[Kyo] Did you order me to kill myself? How dare you! I thought of you as a brother. 
+m6_game_ryo_1_01
+[Ryo] You will die by our hands.
+m6_game_shino_1_01
+[Shinobu] Kyo! Ryo! Stop this at once.
+m6_game_shino_2_01
+[Shinobu] Silence! You have brought shame to our clan and have tainted its name with your filth. I am not your brother anymore. 
+m6_game_shino_2_02
+I am here to carry out your execution. I will give you a chance to redeem yourselves. End your own lives with honor or I will end them for you.
+m6_game_shino_3_01
+[Shinobu] Very well. There will be no absolution for you. 
