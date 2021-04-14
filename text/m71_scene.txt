@@ -1,0 +1,16 @@
+m7_open_bill_1_01
+[Bill] Don’t be mad if I don’t come to your funeral.
+It’s nothing personal. 
+m7_open_gail_1_01
+[Geil] Ah, you guys again? 
+Good to see you. Unfortunately, I’ll have to end you right now.
+m7_open_rod_1_01
+[Rodrigo] Nothing happened, did we get set up?
+m7_open_rod_2_01
+[Rodrigo] This car is way too cramped. Can somebody swap places with me?
+m7_open_rod_3_01
+[Rodrigo] Holy shit! I almost became grilled chicken back there.
+m7_open_yuitz_1_01
+[Jin] It can’t be. Shit. Hurry, get in the car!
+m7_open_yuitz_2_01
+[Jin] Dodge!

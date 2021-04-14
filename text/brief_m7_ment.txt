@@ -1,0 +1,42 @@
+m7_brf_ivan_1_01
+[Ivan] FM plans to kidnap senator Bolden. As you know, the senator is the most influential politician in Brain City. 
+m7_brf_ivan_1_02
+As of now, their motives are unclear. Perhaps they want the city to pay a ransom.  On the other hand, they may just want to assassinate him.
+m7_brf_ivan_1_03
+Both outcomes would wreak havoc on the senate.
+m7_brf_ivan_2_01
+[Ivan] Of course. However, there is a limit to what kind of protection we can provide. FM is a huge group. 
+m7_brf_ivan_2_02
+We would need to send most of our troupes to stop them. This would leave the city’s defenses wide open. You’re the only ones who can stop them.
+m7_brf_ivan_2_03
+During the mission, senator Bolden will be held at a remote location under the city’s protection. You will face FM alone.
+m7_brf_ivan_3_01
+[Ivan] The senator's movements are easily tracked since his schedule is available to the public. 
+m7_brf_ivan_3_02
+We can use this to our advantage and lure the enemy to us. One of you will drive the senator’s car and pretend to be him.
+m7_brf_ivan_3_03
+There’s one more detail that may be of interest to you. This operation is being led by Geil. 
+m7_brf_ivan_4_01
+[Ivan] It seems I’ve caught your interest. Geil aims to use this opportunity to demonstrate his strength and gain the respect of his men. 
+m7_brf_ivan_4_02
+Unlike Gibler, it seems like Geil likes to be a part of the action.
+m7_brf_ivan_4_03
+Watch out for him.
+m7_brf_ivan_5_01
+[Ivan] The advance for this mission is 15,000 Credit. Break a leg.
+m7_brf_jun_1_01
+[June] If he is such an important person, shouldn’t he already be well guarded?
+m7_brf_rod_1_01
+[Rodrigo] Alright. I’ll play the hero this time.
+m7_brf_rod_2_01
+[Rodrigo] Hey, Jin. I'll be in the car.
+m7_brf_rod_3_01
+[Rodrigo] It’s alright. I’ve always wanted to ride in a nice car.
+m7_brf_yuitz_1_01
+[Jin] That's an obvious bait. Will FM be so easily fooled?
+m7_brf_yuitz_2_01
+[Jin] Geil?
+m7_brf_yuitz_3_01
+[Jin] What’s the advance for this mission?
+m7_brf_yuitz_4_01
+[Jin] I have a feeling this one is going to be dangerous.

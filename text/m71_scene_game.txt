@@ -1,0 +1,12 @@
+m7_game_gail_1_01
+[Geil] Why are you so fucking useless?
+m7_game_gail_2_01
+[Geil] Shasha! The reinforcements can handle this alone. Retreat with the main force. You will be held responsible for this. 
+m7_game_gail_3_01
+[Geil] Go! Now!
+m7_game_shasha_1_01
+[Shasha] Commander, I’m here to help
+m7_game_shasha_2_01
+[Shasha] …
+m7_game_shasha_3_01
+[Shasha] But…
