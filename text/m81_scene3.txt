@@ -1,0 +1,42 @@
+m8_open_bb_1_01
+[B.B.] Captain, I bought you some time… get out of here.
+m8_open_bb_2_01
+[B.B.] It’s too late.. I, I.. Hey, Yuang. I have something to tell you. That time, when we were in Chinatown...
+m8_open_bb_3_01
+[B.B.] You knew... everything... already...
+m8_open_bb_4_01
+[B.B.] I... I really wanted to apologize to you… and to everyone who died because of me…
+m8_open_bb_5_01
+[B.B.] Yu... Yuang...
+m8_open_bb_6_01
+[B.B.] All this time... I've wanted to hear that from you... I don't deserve your forgiveness but you still gave it to me... I can die in peace now... Thanks, everyone.
+m8_open_gail_1_01
+[Geil] Well everyone, I hope you enjoy meeting your maker.
+m8_open_yuan_1_01
+[Yuang] You don't need to say a word. The past is in the past. 
+m8_open_yuan_2_01
+[Yuang] I’ve known for a long time that you were the one who made and planted those bombs.
+m8_open_yuan_2_02
+I joined this team to exact my revenge.
+m8_open_yuan_3_01
+[Yuang] I tried to kill you several times while we were fighting but I couldn't bring myself to do it. I saw how that day troubled your sleep for years.
+m8_open_yuan_4_01
+[Yuang] You were also a victim and I was no saint either. We’ve been killing innocent people for our own gain.
+m8_open_yuan_4_02
+There is no heaven for people like us. I may not have the right to do so, but for what it's worth, I forgive you.
+m8_open_yuan_5_01
+[Yuang] Rest in peace, my friend. 
+m8_open_yuan_6_01
+[Yuang] This is how B.B. wanted to go.
+m8_open_yuan_7_01
+[Yuang] Try to keep a cool head, we have to get out of here first.
+m8_open_yuitz_1_01
+[Jin] Hey, Stop!
+m8_open_yuitz_2_01
+[Jin] B.B.! Wake up! We need to go! Fast!
+m8_open_yuitz_3_01
+[Jin] B.B.! Hold yourself together! You aren't going to die! You will live. B.B., Let’s go.
+m8_open_yuitz_4_01
+[Jin] Yuang... you're a cold-hearted punk, you know that?
+m8_open_yuitz_5_01
+[Jin] I'll never forgive those bastards!

@@ -1,0 +1,60 @@
+m8_end_bb_10_01
+[B.B.] Ok, we're all set. We don't have much time. We have to get out of here quickly.
+m8_end_bb_11_01
+[B.B.] ...
+m8_end_bb_1_01
+[B.B.] This is no ordinary bomb! 
+m8_end_bb_2_01
+[B.B.] This is the type I used back in the Chinatown incident!
+m8_end_bb_3_01
+[B.B.] No way. This type of bomb is classified as a limit weapon. It’s going to blow up everything in a 1km radius.
+m8_end_bb_4_01
+[B.B.] There is not much time left, but it's possible.
+m8_end_bb_5_01
+[B.B.] Everyone go on ahead. I’ll take care of things here.
+m8_end_bb_6_01
+[B.B.] Damn it, just get out of here!
+m8_end_bb_7_01
+[B.B.] Yuang…
+m8_end_bb_8_01
+[B.B.] Yes. It’s almost finished…
+m8_end_bb_9_01
+[B.B.] Argh…
+m8_end_bill_1_01
+[Bill] This place is gonna blow, stop talking and get out of here!
+m8_end_bill_2_01
+[Bill] You dummy. Come on, defuse the bomb! I don’t wanna be buried alive in a place like this!
+m8_end_bill_3_01
+[Bill] I'm leaving. Dumb kids. What the hell are you doing? Surviving should be priority number one!
+m8_end_gail_1_01
+[Geil] Hahaha! How does it feel to be blown to pieces with the bombs you made, B.B.?
+m8_end_yuan_1_01
+[Yuang] ...!
+m8_end_yuan_2_01
+[Yuang] I'm staying as well.
+m8_end_yuan_3_01
+[Yuang] I won't run this time. I need to face my demons. 
+m8_end_yuan_4_01
+[Yuang] I'll follow all the orders you want when this is over. 
+m8_end_yuan_5_01
+[Yuang] ...
+m8_end_yuits_5_01
+[Jin] B.B., Can you defuse it?
+m8_end_yuitz_1_01
+[Jin] You heard him. Everyone out!  
+m8_end_yuitz_2_01
+[Jin] What? B.B.?
+m8_end_yuitz_3_01
+[Jin] You mean it isn't one of your bombs?
+m8_end_yuitz_4_01
+[Jin] It's an RTX200?
+m8_end_yuitz_5_01
+[Jin] B.B., Can you defuse it?
+m8_end_yuitz_6_01
+[Jin] I’ll stay here and make sure B.B. gets out. Everyone get out now!
+m8_end_yuitz_7_01
+[Jin] ...
+m8_end_yuitz_8_01
+[Jin] Everybody else, out! That's an order!
+m8_end_yuitz_9_01
+[Jin] Geil!

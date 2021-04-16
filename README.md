@@ -102,6 +102,11 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.8.0 
+* Chapter 8 Briefing Translated.
+* Chapter 8 Part 1, 2 and 3 - Text ready for .cel creation.
+* Mission 8 Credit Easy : 40 000 starting Credit / Normal : 30 000 starting Credit / Hard & Impossible : 20 000 starting 
+
 v0.7.0 - CHAPTER 7 COMPLETE!
 * Chapter 7 Briefing Translated.
 * Chapter 7 Translated.

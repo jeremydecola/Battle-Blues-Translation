@@ -1,0 +1,8 @@
+m8_open_bb_1_01
+[B.B.] Roger, Captain.
+m8_open_yuan_1_01
+[Yuang] Okay!
+m8_open_yuitz_1_01
+[Jin] Let's wrap things up and get out of here! 
+m8_open_yuitz_2_01
+[Jin] B.B.! Do your thing.

@@ -1,0 +1,20 @@
+m8_open_hans_1_01
+[Hans] Did you hear the news?
+m8_open_hans_2_01
+[Hans] General Ivan was elected Senator with a 100% approval rating. 
+m8_open_hans_3_01
+[Hans] Perhaps this is just a political stunt.  He wants to show off his military strength. 
+m8_open_jun_1_01
+[June] What news?
+m8_open_jun_2_01
+[June] The previous Senator was just murdered. Why would Ivan put himself in danger like this? 
+m8_open_jun_3_01
+[June] His presence here accomplishes absolutely nothing.
+m8_open_simon_1_01
+[Simon] Why did General Ivan have to tag along? He's only getting in our way.
+m8_open_simon_2_01
+[Simon] With Senator Bolden and my father dead, he was the logical next person in line.
+m8_open_yuan_1_01
+[Yuang] So, General Ivan has complete control of the city now.
+m8_open_yuan_2_01
+[Yuang] A leader who fights alongside his men? Interesting.

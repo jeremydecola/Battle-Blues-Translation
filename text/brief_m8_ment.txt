@@ -1,0 +1,36 @@
+m8_brf_bb_1_01
+[B.B.] Okidoki!
+m8_brf_ivan_1_01
+[Ivan] Yesterday evening, Senator Bolden was found dead in his home. 
+m8_brf_ivan_2_01
+[Ivan] No, it's someone who's been by your side this whole time.
+m8_brf_ivan_3_01
+[Ivan] Right. It was Rodrigo's doing. I don't know what his reasons are, but he seems to have sided with FM.
+m8_brf_ivan_3_02
+You had no idea? Jin, if this is how you manage your team, it doesn't reflect very well on your skill as a captain.
+m8_brf_ivan_4_01
+[Ivan] In any case, we've located FM's base.
+m8_brf_ivan_4_02
+They operate from a 20-story energy tower on Slam Street. I want you to destroy the tower and close off the area. 
+m8_brf_ivan_4_03
+FM is very spread out, but if you destroy their base, they will eventually fall apart.
+m8_brf_ivan_4_04
+Your advance for this mission is 20,000 Credit. Make each Credit count. 
+m8_brf_ivan_5_01
+[Ivan] Don't worry. It's been decommissioned since 2010.
+m8_brf_ivan_6_01
+[Ivan] That information is classified. I'm sorry.
+m8_brf_jun_1_01
+[June] General Ivan, don’t you think you went a bit too far there? 
+m8_brf_jun_2_01
+[June] No way. It's an older spherical-type tower, there will be a huge explosion! How would we protect surrounding civilians from the blast?
+m8_brf_ray_1_01
+[Ray] Alright! B.B! Blow it up!
+m8_brf_yuitz_1_01
+[Jin] He still ended up dead. Great... Who did it? FM?
+m8_brf_yuitz_2_01
+[Jin] Don't tell me... Rodrigo?!
+m8_brf_yuitz_3_01
+[Jin] ...
+m8_brf_yuitz_4_01
+[Jin] Energy is already scarce enough these days... can we really afford to blow up the tower? What do we gain from doing this?

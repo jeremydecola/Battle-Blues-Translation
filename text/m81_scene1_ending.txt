@@ -1,0 +1,10 @@
+m8_end_bill_1_01
+[Bill] Let's keep going, we have a job to do.  
+m8_end_ivan_1_01
+[Ivan] Don't worry about me, let's go.
+m8_end_simon_1_01
+[Simon] General Ivan used to be a soldier. I'm sure he can handle himself. 
+m8_end_yuitz_1_01
+[Jin] Ivan, are you alright?
+m8_end_yuitz_2_01
+[Jin] Let's head inside. Everyone, be on high alert.  
