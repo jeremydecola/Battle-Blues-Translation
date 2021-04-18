@@ -7,11 +7,11 @@ m8_end_bb_1_01
 m8_end_bb_2_01
 [B.B.] This is the type I used back in the Chinatown incident!
 m8_end_bb_3_01
-[B.B.] No way. This type of bomb is classified as a limit weapon. It’s going to blow up everything in a 1km radius.
+[B.B.] No way. This type of bomb is classified as a limit weapon. It’s going to blow up everything in a 1 kilometer radius.
 m8_end_bb_4_01
 [B.B.] There is not much time left, but it's possible.
 m8_end_bb_5_01
-[B.B.] Everyone go on ahead. I’ll take care of things here.
+[B.B.] Everyone, go on ahead. I’ll take care of things here.
 m8_end_bb_6_01
 [B.B.] Damn it, just get out of here!
 m8_end_bb_7_01
@@ -39,7 +39,7 @@ m8_end_yuan_4_01
 m8_end_yuan_5_01
 [Yuang] ...
 m8_end_yuits_5_01
-[Jin] B.B., Can you defuse it?
+[Jin] B.B., can you defuse it?
 m8_end_yuitz_1_01
 [Jin] You heard him. Everyone out!  
 m8_end_yuitz_2_01
@@ -51,7 +51,7 @@ m8_end_yuitz_4_01
 m8_end_yuitz_5_01
 [Jin] B.B., Can you defuse it?
 m8_end_yuitz_6_01
-[Jin] I’ll stay here and make sure B.B. gets out. Everyone get out now!
+[Jin] I’ll stay here and make sure B.B. gets out. Everyone, get out now!
 m8_end_yuitz_7_01
 [Jin] ...
 m8_end_yuitz_8_01
