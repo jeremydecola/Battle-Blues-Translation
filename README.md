@@ -4,7 +4,7 @@ Battle Blues (배틀 블루스) is a CyberPunk SRPG made by Shin's Entertainment
 The game was never localized for a western audience as the 3DO did not sell well in the West, let alone in Korea. 
 
 <p align="center">
-  <img src="graphics/bb_pinup.jpg" width=60%>  
+  <img src="graphics/bb_poster_eng.jpg" width=60%>  
 </p>
 
 ## Balance Changes
@@ -102,6 +102,7 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+
 v0.9.0 - CHAPTER 9 COMPLETE!
 * Chapter 9 Part 1 Translated.
 * Chapter 9 Part 2 Translated.
