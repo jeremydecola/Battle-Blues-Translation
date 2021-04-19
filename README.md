@@ -102,6 +102,11 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.9.0 - CHAPTER 9 COMPLETE!
+* Chapter 9 Part 1 Translated.
+* Chapter 9 Part 2 Translated.
+* Chapter 9 Part 3 Translated.
+
 v0.8.2 - CHAPTER 8 COMPLETE!
 * Chapter 8 Part 3 Translated.
 

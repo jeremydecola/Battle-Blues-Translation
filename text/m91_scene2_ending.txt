@@ -1,0 +1,42 @@
+m9_end_fm_1-01
+[FM Soldier] Commander, I've found the traitor who released Team Blue's captain. Shall I dispose of her?
+m9_end_fm_2-01
+[FM Soldier] Yes, sir.
+m9_end_gail_1-01
+[Geil] Shasha...
+m9_end_gail_2-01
+[Geil] God damn it! Shasha. You disappoint me.
+m9_end_gail_3-01
+[Geil] Leave this to me. Take reinforcements and go after them.
+m9_end_gail_4-01
+[Geil] Shasha...You are so...
+m9_end_gail_5-01
+[Geil] ...Shasha...
+m9_end_shasha_1-01
+[Shasha] Your teammates are locked up in a different cell. Save them quickly and escape.
+m9_end_shasha_1-02
+The guards probably have the keys.
+m9_end_shasha_2-01
+[Shasha] Right. Ivan has been using you from the beginning for his own political agenda.
+m9_end_shasha_2-02
+Every time you fought FM, the credit went to General Ivan, and naturally he garnered the support of the citizens.
+m9_end_shasha_3-01
+[Shasha] Now you have to get out of this place. Please, hurry.
+m9_end_shasha_4-01
+[Shasha] There are some things in this world that are more precious than life. Don’t worry about me.
+m9_end_shasha_5-01
+[Shasha] I pray that he gets out safely… He reminds me of a man I saw in my dreams.
+m9_end_shasha_6-01
+[Shasha] I’m sorry, Commander.
+m9_end_shasha_7-01
+[Shasha] ...
+m9_end_shasha_8-01
+[Shasha] Commander... No. I mean, Geil! I’ve been in love with you... all this time. Forgive me.
+m9_end_yuitz_1-01
+[Jin] Wait, I need answers... Is General Ivan behind all this?
+m9_end_yuitz_2-01
+[Jin] Ivan's been using us... We were just his pawns.
+m9_end_yuitz_3-01
+[Jin] What about you? Geil will never forgive you once he finds out you helped us.
+m9_end_yuitz_4-01
+[Jin] Thanks for your help.

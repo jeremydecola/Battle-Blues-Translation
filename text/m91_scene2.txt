@@ -1,0 +1,16 @@
+m9_open_bocho_1-01
+[FM Soldier] Who goes there?
+m9_open_shasha_1-01
+[Shasha] Shhh, do you remember me?
+m9_open_shasha_2-01
+[Shasha] We don’t have time to make small talk. We have to hurry up and get you out of here. 
+m9_open_shasha_3-01
+[Shasha] I'm just repaying a favour. 
+m9_open_shasha_4-01
+[Shasha] Take this gun, quickly!
+m9_open_yuitz_1-01
+[Jin] Who are you?
+m9_open_yuitz_2-01
+[Jin] You're...
+m9_open_yuitz_3-01
+[Jin] Why are you helping me?

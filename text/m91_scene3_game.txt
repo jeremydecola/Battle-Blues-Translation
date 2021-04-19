@@ -1,0 +1,8 @@
+m9_game_jun_1_01
+[June] Captain! How did you...?
+m9_game_yuan_1_01
+[Yuang] Captain!
+m9_game_yuitz_1_01
+[Jin] No time to be surprised. We have to go!
+m9_game_yuitz_2_01
+[Jin] Come on! Let's get out of here!

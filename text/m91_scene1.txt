@@ -1,0 +1,8 @@
+m9_open_bill_1-01
+[Bill] Don’t worry about us, Captain.
+m9_open_jun_1-01
+[June] Be careful, everybody. My bio-scanner's picking up a strange reading.
+m9_open_yuitz_1-01
+[Jin] Are you guys ready?
+m9_open_yuitz_2-01
+[Jin] Let’s get started.

@@ -1,0 +1,24 @@
+bill_1
+[Bill] Who are these jerks?
+m9_end_bc_d_1-01
+[City Guard] Freeze. Any sudden movement and we shoot!
+m9_end_bc_d_2-01
+[City Guard] Shut up. Drop your weapons. You are under arrest for the murder of innocent civilians.
+m9_end_bc_d_3-01
+[City Guard] Be quiet and place your weapons on the ground.
+m9_end_bill_1-01
+[Bill] Shit! Those bastards!
+m9_end_bill_2-01
+[Bill] Captain!
+m9_end_yuitz_1-01
+[Jin] Hey, you are General Ivan’s men. We are not enemies. We are working for General Ivan…
+m9_end_yuitz_2-01
+[Jin] What? Hey, this is a misunderstanding. Bring us to the General. He'll clear things up. 
+m9_end_yuitz_3-01
+[Jin] Just do whatever they say for now.
+m9_end_yuitz_4-01
+[Jin] Go on!
+yuang_1
+[Yuang] They’re Ivan’s city guards.
+yuitz_1
+[Jin] Is this FM’s hideout?
