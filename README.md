@@ -102,6 +102,11 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.10.1 - MISCELLANEOUS DIALOGUE COMPLETE! 
+* Friendly Fire Comments Translated.
+* Allied Unit Death/Retreat Comments Translated.
+* Ninja Summon Event Translated.
+
 v0.10.0 - CHAPTER 10 COMPLETE!
 * Chapter 10 Part 1 Translated.
 * Chapter 10 Part 2 Translated.
