@@ -1,0 +1,66 @@
+bill_1_01
+[Bill] Damn it, is this the end?
+bill_2_01
+[Bill] You’re right. I can’t leave things like his. If I’m going down, these bastards are going down with me.
+bill_3_01
+[Bill] Death doesn’t scare me. I have nothing to lose… absolutely nothing.
+bill_4_01
+[Bill] Shut the fuck up!
+geil_1_01
+[Geil] That’s it? I expected better from you. I’m very disappointed.
+geil_2_01
+[Geil] Everyone, cut it out. Aren’t you tired? You never stop talking. Why don’t we have one last going away party? My treat.
+ivan_1_01
+[Ivan] You are quite persistent. As much as I try to get rid of you, you just keep coming back.
+ivan_2_01
+[Ivan] I feel sorry for you guys but, think of it as a small sacrifice for a greater cause. After all, humanity is already doomed.
+ivan_2_02
+Civilization is in decline due to the endless conflicts breaking out each day around the globe.
+ivan_2_03
+My goal is to unite the world again and put a stop to all this nonsense.
+ivan_3_01
+[Ivan] You are smarter than I thought.
+Slam Street is right near a border between 2 states that were already at odds with each other. 
+ivan_3_02
+In times of war, people crave change and that's exactly what I would offer. A new world. Unfortunately, that’s all out the window because of you.  
+ivan_3_03
+Too bad you didn’t all die in a "tragic accident" during the Slam Street mission like you were supposed to.
+ivan_4_01
+[Ivan] Whether you do right or wrong, good or bad, there will always be people caught in the crossfire, people ready to play victim. 
+ivan_5_01
+[Ivan] You’re mercenaries who take pleasure in killing for money... Anyways, Yuang, I have a fun fact to share with you.
+ivan_5_02
+I'm the one who ordered the destruction of your hometown. 
+ivan_5_03
+How does it feel to have been working for me all this time and only now finding out?
+ivan_6_01
+[Ivan] That’s cute. You really believe that. You guys really know nothing about this world.
+ivan_6_02
+Do you really think some idiots like you can save this world?
+yuan_1_01
+[Yuang] Are you scared?
+yuan_2_01
+[Yuang] Were we really just pawns to you?
+yuan_3_01
+[Yuang] What?!
+yuitz_1_01
+[Jin] Bill, that’s not like you. What are you talking about? Don’t give up so easily. 
+yuitz_2_01
+[Jin] Ivan, is human life so easily expendable for you?
+yuitz_3_01
+[Jin] Then, were you the one who had Slam Street blown up?
+yuitz_4_01
+[Jin] You’re nothing more than a savage.
+yuitz_5_01
+[Jin] Yuang, don't let him get to you. 
+Hey, Ivan, what you said is right. We are soldiers who kill for money.
+yuitz_5_02
+Even if you kill in the name of justice, murder is murder. There is a special place in Hell for people like us. 
+yuitz_5_03
+But I can't leave this world in the hands of people like you. You and I have no right to shape the future of this world with our sinful hands.
+yuitz_5_04
+A good leader is one who considers the well-being of the masses before their own.
+yuitz_5_05
+The type of person that you and I would call "weak".
+yuitz_6_01
+[Jin] Of course we do. That’s why we’re here to stop you.

@@ -1,0 +1,26 @@
+bill_1_01
+[Bill] Ivan... That son of a bitch! I hated him from the start.
+bill_2_01
+[Bill] Don’t even think about being a hero. We still have a score to settle.
+bill_3_01
+[Bill] What the hell are you doing? Captain!
+eric_1_01
+[Eric] W-we’ve m-made it all this way...
+june_1_01
+[June] We’ll all make it out in one piece, I’m sure of it!
+yuan_1_01
+[Yuang] Are you kidding? Captain!
+yuan_2_01
+[Yuang] What are you talking about?! We are a team!
+yuitz_1_01
+[Jin] As you probably have figured out by now, General Ivan has betrayed us.
+yuitz_2_01
+[Jin] I won’t sugar coat it, our situation is looking pretty grim. We may not be able to leave with our lives.
+yuitz_3_01
+[Jin] I’m disbanding Team Blue. I'm no longer your captain, so I won't judge you if you leave now.
+yuitz_4_01
+[Jin] Guys...
+yuitz_5_01
+[Jin] June, I want to thank you for everything you’ve done until now.
+yuitz_6_01
+[Jin] Someone must survive and keep our memory alive. We are only truly dead if we are forgotten. Let’s fight to the end, Team Blue!
