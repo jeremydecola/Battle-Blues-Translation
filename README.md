@@ -102,6 +102,9 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.10.2 - CHAPTER LOADING SCREENS COMPLETE!
+* Translated the loading screens for all chapters. 
+
 v0.10.1 - MISCELLANEOUS DIALOGUE COMPLETE! 
 * Friendly Fire Comments Translated.
 * Allied Unit Death/Retreat Comments Translated.
