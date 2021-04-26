@@ -1,14 +1,14 @@
-m8_end_bb_10_01
+m8_end_bb_10_01 -> 1_01
 [B.B.] Ok, we're all set. We don't have much time. We have to get out of here quickly.
-m8_end_bb_11_01
+m8_end_bb_11_01 -> 2_01
 [B.B.] ...
-m8_end_bb_1_01
+m8_end_bb_1_01 -> 3_01
 [B.B.] This is no ordinary bomb! 
-m8_end_bb_2_01
+m8_end_bb_2_01 -> 4_01
 [B.B.] This is the type I used back in the Chinatown incident!
-m8_end_bb_3_01
+m8_end_bb_3_01 -> 5_01
 [B.B.] No way. This type of bomb is classified as a limit weapon. It’s going to blow up everything in a 1 kilometer radius.
-m8_end_bb_4_01
+m8_end_bb_4_01 ->
 [B.B.] There is not much time left, but it's possible.
 m8_end_bb_5_01
 [B.B.] Everyone, go on ahead. I’ll take care of things here.
@@ -16,9 +16,9 @@ m8_end_bb_6_01
 [B.B.] Damn it, just get out of here!
 m8_end_bb_7_01
 [B.B.] Yuang…
-m8_end_bb_8_01
+m8_end_bb_8_01 -> 10_01
 [B.B.] Yes. It’s almost finished…
-m8_end_bb_9_01
+m8_end_bb_9_01 -> 11_01
 [B.B.] Argh…
 m8_end_bill_1_01
 [Bill] This place is gonna blow, stop talking and get out of here!

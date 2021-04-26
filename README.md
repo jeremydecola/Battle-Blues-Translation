@@ -102,6 +102,10 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.10.3 - SUBBED ALL CUTSCENES!
+* Added subtitles to all cutscenes.
+* Fixed incorrectly named cel image files which caused B.B.'s lines in Chapter 8 to be out of order and incoherent.
+
 v0.10.2 - CHAPTER LOADING SCREENS COMPLETE!
 * Translated the loading screens for all chapters. 
 
