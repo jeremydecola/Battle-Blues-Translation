@@ -102,6 +102,9 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.10.4 - DUBBED THE CREDITS.
+* Dubbed the credits in English.
+
 v0.10.3 - SUBBED ALL CUTSCENES!
 * Added subtitles to all cutscenes.
 * Fixed incorrectly named cel image files which caused B.B.'s lines in Chapter 8 to be out of order and incoherent.
