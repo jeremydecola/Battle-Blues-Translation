@@ -7,9 +7,9 @@ bill_3_01
 bill_4_01
 [Bill] Shut the fuck up!
 geil_1_01
-[Geil] That’s it? I expected better from you. I’m very disappointed.
+[Gail] That’s it? I expected more from you. I’m very disappointed.
 geil_2_01
-[Geil] Everyone, cut it out. Aren’t you tired? You never stop talking. Why don’t we have one last going away party? My treat.
+[Gail] Everyone, cut it out. Aren’t you tired? You never stop talking. Why don’t we have one last going away party? My treat.
 ivan_1_01
 [Ivan] You are quite persistent. As much as I try to get rid of you, you just keep coming back.
 ivan_2_01

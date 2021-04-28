@@ -2,8 +2,8 @@ m7_open_bill_1_01
 [Bill] Don’t be mad if I don’t come to your funeral.
 It’s nothing personal. 
 m7_open_gail_1_01
-[Geil] Ah, you guys again? 
-Good to see you. Unfortunately, I’ll have to end you right now.
+[Gail] Ah, you guys again? 
+Good to see you. I wish we could catch up. Unfortunately, I have to kill you now.
 m7_open_rod_1_01
 [Rodrigo] Nothing happened, did we get set up?
 m7_open_rod_2_01

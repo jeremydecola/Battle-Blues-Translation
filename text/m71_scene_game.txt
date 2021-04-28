@@ -1,9 +1,9 @@
 m7_game_gail_1_01
-[Geil] Why are you so fucking useless?
+[Gail] Why are you so fucking useless?
 m7_game_gail_2_01
-[Geil] Shasha! The reinforcements can handle this alone. Retreat with the main force. You will be held responsible for this. 
+[Gail] Shasha! The reinforcements can handle this alone. Retreat with the main force. You will be held responsible for this. 
 m7_game_gail_3_01
-[Geil] Go! Now!
+[Gail] Go! Now!
 m7_game_shasha_1_01
 [Shasha] Commander, I’m here to help
 m7_game_shasha_2_01

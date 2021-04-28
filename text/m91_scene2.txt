@@ -5,7 +5,7 @@ m9_open_shasha_1-01
 m9_open_shasha_2-01
 [Shasha] We don’t have time to make small talk. We have to hurry up and get you out of here. 
 m9_open_shasha_3-01
-[Shasha] I'm just repaying a favour. 
+[Shasha] Back when we first met, you could've shot through me and killed Gail, but you didn't. I'm just repaying the favour. 
 m9_open_shasha_4-01
 [Shasha] Take this gun, quickly!
 m9_open_yuitz_1-01

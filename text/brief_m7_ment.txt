@@ -15,11 +15,11 @@ m7_brf_ivan_3_01
 m7_brf_ivan_3_02
 We can use this to our advantage and lure the enemy to us. One of you will drive the senator’s car and pretend to be him.
 m7_brf_ivan_3_03
-There’s one more detail that may be of interest to you. This operation is being led by Geil. 
+There’s one more detail that may be of interest to you. This operation is being led by Gail. 
 m7_brf_ivan_4_01
-[Ivan] It seems I’ve caught your interest. Geil aims to use this opportunity to demonstrate his strength and gain the respect of his men. 
+[Ivan] It seems I’ve caught your interest. Gail aims to use this opportunity to demonstrate his strength and gain the respect of his men. 
 m7_brf_ivan_4_02
-Unlike Gibler, it seems like Geil likes to be a part of the action.
+Unlike Gibler, it seems like Gail likes to be a part of the action.
 m7_brf_ivan_4_03
 Watch out for him.
 m7_brf_ivan_5_01
@@ -35,7 +35,7 @@ m7_brf_rod_3_01
 m7_brf_yuitz_1_01
 [Jin] That's an obvious bait. Will FM be so easily fooled?
 m7_brf_yuitz_2_01
-[Jin] Geil?
+[Jin] Gail?
 m7_brf_yuitz_3_01
 [Jin] What’s the advance for this mission?
 m7_brf_yuitz_4_01

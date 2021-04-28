@@ -102,6 +102,12 @@ Easy :
 | Ivan      | 25/25/25 | 40/40/30 | 5/5/5    | 4/4/4 | 5 |
 
 ## Progress
+v0.10.5 
+* Removed staff_b.cel due to visual artifacts caused by incorrect cel parameters. Figuring out which parameters to set would be too tedious.
+* Found that m8e.moov freezes a few seconds into playback. No other videos have issues. I will regenerate m8e.moov.
+* Fixed a few awkward sentences and an aesthetic error : ana1_2-01, m9_open_shasha_3-01, m9_end_shasha_1-01
+* For the sake of consistency, replaced all mentions in text/video of "Geil" with "Gail".
+
 v0.10.4 - DUBBED THE CREDITS.
 * Dubbed the credits in English.
 

@@ -9,11 +9,11 @@ m6_brf_ivan_1_01
 m6_brf_ivan_1_02
 There’s been an incident with FM which led to an internal restructuring of sorts...
 m6_brf_ivan_1_03
-Gibler was assassinated and a man named Geil has assumed command.
+Gibler was assassinated and a man named Gail has assumed command.
 m6_brf_ivan_1_04
 Rumor has it he is a much more meticulous and cold-blooded individual than Gibler was. Not someone you’d write home to your mother about.
 m6_brf_ivan_1_05
-Geil seems to be particularly interested in you. Let’s just say, he’s been digging around quite a bit.
+Gail seems to be particularly interested in you. Let’s just say, he’s been digging around quite a bit.
 m6_brf_ivan_2_01
 [Ivan] In any case, you guys can take care of yourselves. This mission is very simple.
 m6_brf_ivan_2_02
@@ -29,6 +29,6 @@ m6_brf_rod_2_01
 m6_brf_yuan_1_01
 [Yuang] I’ll take this one.
 m6_brf_yuitz_1_01
-[Jin] Geil... I know him. 
+[Jin] Gail... I know him. 
 m6_brf_yuitz_2_01
 [Jin] Do whatever you want.

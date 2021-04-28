@@ -27,7 +27,7 @@ m8_end_bill_2_01
 m8_end_bill_3_01
 [Bill] I'm leaving. Dumb kids. What the hell are you doing? Surviving should be priority number one!
 m8_end_gail_1_01
-[Geil] Hahaha! How does it feel to be blown to pieces with the bombs you made, B.B.?
+[Gail] Hahaha! How does it feel to be blown to pieces with the bombs you made, B.B.?
 m8_end_yuan_1_01
 [Yuang] ...!
 m8_end_yuan_2_01
@@ -57,4 +57,4 @@ m8_end_yuitz_7_01
 m8_end_yuitz_8_01
 [Jin] Everybody else, out! That's an order!
 m8_end_yuitz_9_01
-[Jin] Geil!
+[Jin] Gail!

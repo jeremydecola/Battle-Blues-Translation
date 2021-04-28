@@ -3,17 +3,17 @@ m9_end_fm_1-01
 m9_end_fm_2-01
 [FM Soldier] Yes, sir.
 m9_end_gail_1-01
-[Geil] Shasha...
+[Gail] Shasha...
 m9_end_gail_2-01
-[Geil] God damn it! Shasha. You disappoint me.
+[Gail] God damn it! Shasha. You disappoint me.
 m9_end_gail_3-01
-[Geil] Leave this to me. Take reinforcements and go after them.
+[Gail] Leave this to me. Take reinforcements and go after them.
 m9_end_gail_4-01
-[Geil] Shasha...You are so...
+[Gail] Shasha...You are so...
 m9_end_gail_5-01
-[Geil] ...Shasha...
+[Gail] ...Shasha...
 m9_end_shasha_1-01
-[Shasha] Your teammates are locked up in a different cell. Save them quickly and escape.
+[Shasha] Your teammates are locked up in the other cells. Save them quickly and escape.
 m9_end_shasha_1-02
 The guards probably have the keys.
 m9_end_shasha_2-01
@@ -31,12 +31,12 @@ m9_end_shasha_6-01
 m9_end_shasha_7-01
 [Shasha] ...
 m9_end_shasha_8-01
-[Shasha] Commander... No. I mean, Geil! I’ve been in love with you... all this time. Forgive me.
+[Shasha] Commander... No. I mean, Gail! I’ve been in love with you... all this time. Forgive me.
 m9_end_yuitz_1-01
 [Jin] Wait, I need answers... Is General Ivan behind all this?
 m9_end_yuitz_2-01
 [Jin] Ivan's been using us... We were just his pawns.
 m9_end_yuitz_3-01
-[Jin] What about you? Geil will never forgive you once he finds out you helped us.
+[Jin] What about you? Gail will never forgive you once he finds out you helped us.
 m9_end_yuitz_4-01
 [Jin] Thanks for your help.
