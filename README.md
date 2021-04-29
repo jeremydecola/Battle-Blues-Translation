@@ -125,6 +125,9 @@ Easy :
 | 9          | 20 000          | 30 000        | 40 000      |
 
 ## Progress
+v1.0.0 - PROJECT COMPLETE!
+* Initial Public Release. 
+
 v0.10.6
 * Implemented balancing for Easy and Normal difficulties.
 
