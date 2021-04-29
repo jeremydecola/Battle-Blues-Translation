@@ -1,21 +1,46 @@
 # Battle Blues (3DO) English Translation 
 
-Battle Blues (배틀 블루스) is a Strategy Role-Playing Game developped by Shin's Entertainment (A.K.A. SHIN'S DECO) in collaboration with LG Electronics in 1996 who also helped publish the game. Similar to Panasonic in the West, LG sold its own 3DO consoles in the Korean market. They went on to produce 3 consoles: the Goldstar 3DO Alive which was also sold in Europe without the "Alive" branding, the Goldstar 3DO Alive II which was exclusive to Korea as well as the extremely rare LG 3DO Alive II (essentially just a variant on the Alive II with the LG logo after the company was renamed from "Lucky-Goldstar" to "LG"). 
+Battle Blues (배틀 블루스) is a Strategy Role-Playing Game developped by Shin's Entertainment (A.K.A. SHIN'S DECO) in collaboration with LG Electronics in 1996 who also helped publish the game. 
+
+Similar to Panasonic in the West, LG sold its own 3DO consoles in the Korean market. They went on to produce 3 consoles: the Goldstar 3DO Alive which was also sold in Europe without the "Alive" branding, the Goldstar 3DO Alive II which was exclusive to Korea as well as the extremely rare LG 3DO Alive II (essentially just a variant on the Alive II with the LG logo after the company was renamed from "Lucky-Goldstar" to "LG"). 
+
 Battle Blues was never localized for a western audience as the 3DO did not sell well in the West, let alone in Korea. 
+
+## Instructions 
+As a pre-requisite, you will need a backup of the original game. For legal and moral reasons, I will not be hosting a download for my backup of the game. 
+
+1. Download the latest release of the Battle Blues Patch & Balance Tool (BBPT) from the Releases section of this repository.
+2. Unzip the BBPT.zip file with your favorite file archiver. (I recommend 7zip as it is free and open-source.)
+3. Run BBPT.exe
+4. Follow the in-app instructions.
+
+Note: The tool is currently very rudimentary and gets the job done but it is very sensitive to environmental conditions (CPU and RAM availability, Clock Speed, etc.)  To ensure that the tool completes the patching process smoothly, ensure that there are no ressource intensive processes running on your system at the time of execution. The application currently makes use of Python AutoGui and emulates keypresses during the patching process, so please avoid using your keyboard after starting the patching operation. If you experience any bugs or errors, please report them to jeremydecola@gmail.com.
+
+Thank you! 
+
+If you like my work, please show your support at: https://ko-fi.com/jeremydecola
+
+All donations will help fund further translation projects.
+
+Future potential projects include:
+
+* Zaphie (PC Survival Horror)
+* Zaphie 2 (PC Survival Horror)
+* Manic Game Girl (PS1 Action Adventure / Beat-em-up)
 
 <p align="center">
   <img src="graphics/bb_poster_eng.jpg" width=100%>  
 </p>
 
-Art by Joe N. Brown Art 
+Illustration by Joe N. Brown Art 
 
 ## Balance Changes
 It seems as though the developers didn't invest many ressources in quality assurance... The game is brutally difficult and in an unfair way. The random number generation is almost never in your favor and your party member's stats are insulting low. I located where the stats are stored in the game's binaries and was able to re-balance the characters slightly as well as up the amount of money given at the start of each level to allow the player to buy more weapons and ammunition. I will create 3 difficulties: Easy, Normal, Hard. The original difficulty will be dubbed "Impossible" mode.
 
 ### Allied Units
 
-Tentative balance changes on Allied Units:
-
+<details><summary>Tentative balance changes on Allied Units: [SPOILER WARNING]</summary>
+  
 Impossible : Stats unchanged. 
 
 Hard : Same as Normal but the player will not be given additional Credit for each mission. In other words, the player will have the same amount of Credit to spend as they would in the original game.
@@ -64,10 +89,10 @@ Easy :
 | Jack    | 5/5/5    | 5/5/5    | 5/5/5    | 4/4/4 | 5  |
 | Shasha  | 5/5/5    | 5/5/5    | 5/5/5    | 4/4/4 | 5  |
 | Simon   | 20/25/30 | 15/22/22 | 28/28/28 | 5/5/5 | 50 |
+</details>
 
 ### Enemy Units
-
-Tentative balance changes on Enemy Units:
+<details><summary>Tentative balance changes on Enemy Units:: [SPOILER WARNING]</summary>
 
 Impossible : Stats unchanged. 
 
@@ -109,6 +134,7 @@ Easy :
 | Psycho    | 25/25/18 | 30/30/23 | 10/10/10 | 4/4/4 | 5 |
 | John      | 5/5/4    | 5/5/4    | 5/5/5    | 4/4/4 | 5 |
 | Ivan      | 25/25/25 | 40/40/40 | 5/5/5    | 4/4/4 | 5 |
+</details>
 
 ### Credit Advance Balancing
 
