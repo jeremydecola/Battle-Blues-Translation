@@ -20,7 +20,7 @@ Thank you!
 
 If you like my work, please show your support at: https://ko-fi.com/jeremydecola
 
-All donations will help fund further translation projects.
+All donations will help fund future translation projects.
 
 Future potential projects include:
 
