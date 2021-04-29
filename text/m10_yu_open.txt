@@ -1,7 +1,7 @@
 ana1_1-01
 [ANA Officer 1]  If you find anyone that still has a pulse, make sure to get rid of them.
 ana1_2-01
-[ANA Officer 1] Don't bother taking any captives. If we leave any of them alive they'll probably come back to try and avenge their family.
+[ANA Officer 1] Don't bother taking any captives. If we leave any of them alive, they'll probably come back to try and avenge their family.
 ana1_2-02
 Or even worse, they might alert the media.
 ana1_3-01

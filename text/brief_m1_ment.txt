@@ -31,7 +31,7 @@ m1_brf_ivan_1_07"
 Civilians have already been evacuated so you can rest easy. 
 
 m1_brf_ivan_1_08"  
-The reward for this mission is 15 000 Credit. 
+The advance for this mission is 15 000 Credit. 
 If you have any questions, speak now. 
 
 m1_brf_ivan_2_01"  

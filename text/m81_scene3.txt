@@ -11,7 +11,7 @@ m8_open_bb_5_01
 m8_open_bb_6_01
 [B.B.] All this time... I've wanted to hear that from you. I can die in peace now... Thanks, everyone.
 m8_open_gail_1_01
-[Gail] Well everyone, I hope you enjoy meeting your maker.
+[Gail] Don't worry guys, I'll make this quick and painless. On second thought, I'm not sure about the "painless" part.
 m8_open_yuan_1_01
 [Yuang] You don't need to say a word. The past is in the past. 
 m8_open_yuan_2_01
